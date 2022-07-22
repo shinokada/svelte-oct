@@ -1,6 +1,15 @@
 {
 	"name": "svelte-oct-icons",
 	"version": "0.0.1",
+	"description": "Octicons components for Svelte",
+	"author": {
+		"name": "Shinichi Okada",
+		"email": "connect@codewithshin.com",
+		"url": "https://blog.codewithshin.com"
+	},
+	"bugs": "https://github.com/shinokada/svelte-oct-icons/issues",
+	"homepage": "https://github.com/shinokada/svelte-oct-icons",
+	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -31,5 +40,16 @@
 		"vite": "^3.0.0",
 		"husky": "^8.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"Octicons",
+		"svg icons",
+		"icons"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shinokada/svelte-oct-icons"
+	}
 }
