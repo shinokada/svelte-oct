@@ -1,5 +1,5 @@
 {
-	"name": "svelte-oct-icons",
+	"name": "svelte-oct",
 	"version": "0.0.1",
 	"description": "Octicons components for Svelte",
 	"author": {
@@ -7,8 +7,8 @@
 		"email": "connect@codewithshin.com",
 		"url": "https://blog.codewithshin.com"
 	},
-	"bugs": "https://github.com/shinokada/svelte-oct-icons/issues",
-	"homepage": "https://github.com/shinokada/svelte-oct-icons",
+	"bugs": "https://github.com/shinokada/svelte-oct/issues",
+	"homepage": "https://github.com/shinokada/svelte-oct",
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite dev",
@@ -50,6 +50,6 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/shinokada/svelte-oct-icons"
+		"url": "https://github.com/shinokada/svelte-oct"
 	}
 }
