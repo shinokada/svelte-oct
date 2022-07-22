@@ -29,11 +29,7 @@ In a svelte file:
 
 ```html
 <script>
-  import {
-    Accessibility16,
-    Alert16,
-    Archive16
-  } from 'svelte-oct';
+  import { Accessibility16, Alert16, Archive16 } from 'svelte-oct';
 </script>
 
 <Accessibility16 />
