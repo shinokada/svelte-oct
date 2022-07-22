@@ -1,0 +1,20 @@
+<script lang="ts">
+	export let size = '16';
+	export let color = 'currentColor';
+	export let ariaLabel = 'issue opened 16';
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width={size}
+	height={size}
+	fill={color}
+	class={$$props.class}
+	{...$$restProps}
+	aria-label={ariaLabel}
+	viewBox="0 0 16 16"
+	><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z" /><path
+		fill-rule="evenodd"
+		d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"
+	/></svg
+>

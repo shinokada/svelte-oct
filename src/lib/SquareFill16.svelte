@@ -1,0 +1,20 @@
+<script lang="ts">
+	export let size = '16';
+	export let color = 'currentColor';
+	export let ariaLabel = 'square fill 16';
+</script>
+
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width={size}
+	height={size}
+	fill={color}
+	class={$$props.class}
+	{...$$restProps}
+	aria-label={ariaLabel}
+	viewBox="0 0 16 16"
+	><path
+		fill-rule="evenodd"
+		d="M5.75 4A1.75 1.75 0 004 5.75v4.5c0 .966.784 1.75 1.75 1.75h4.5A1.75 1.75 0 0012 10.25v-4.5A1.75 1.75 0 0010.25 4h-4.5z"
+	/></svg
+>
