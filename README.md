@@ -3,10 +3,10 @@
 [![npm version](https://badgen.net/npm/v/svelte-oct)](https://www.npmjs.com/package/svelte-oct)
 [![license](https://badgen.net/npm/license/svelte-oct)](https://github.com/shinokada/svelte-oct/blob/main/LICENSE)
 
-500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct support major CSS frameworks using the `class` props.
+500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct icons support major CSS frameworks using the `class` props.
 
 <p align="center">
-<img width="450" src="https://raw.githubusercontent.com/shinokada/svelte-remix/main/static/images/octicons.webp" />
+<img width="450" src="https://raw.githubusercontent.com/shinokada/svelte-oct/main/static/images/octicons.webp" />
 </p>
 
 ## Icon name list
@@ -29,16 +29,16 @@ In a svelte file:
 
 ```html
 <script>
-	import {
-		BankFillBUILDINGS,
-		MailDownloadFillBUSINESS,
-		InboxUnarchiveLineBUSINESS
-	} from 'svelte-oct';
+  import {
+    Accessibility16,
+    Alert16,
+    Archive16
+  } from 'svelte-oct';
 </script>
 
-<BankFillBUILDINGS />
-<MailDownloadFillBUSINESS />
-<InboxUnarchiveLineBUSINESS />
+<Accessibility16 />
+<Alert16 />
+<Archive16 />
 ```
 
 ## Size
@@ -46,9 +46,9 @@ In a svelte file:
 Use the `size` prop to change the size of icons.
 
 ```html
-<BankFillBUILDINGS size="40" />
-<MailDownloadFillBUSINESS size="40" />
-<InboxUnarchiveLineBUSINESS size="40" />
+<Accessibility16 size="40" />
+<Alert16 size="50" />
+<Archive16 size="60" />
 ```
 
 ## CSS HEX Colors
@@ -56,9 +56,9 @@ Use the `size` prop to change the size of icons.
 Use the `color` prop to change colors with HEX color code.
 
 ```html
-<BankFillBUILDINGS color="#c61515" />
-<MailDownloadFillBUSINESS color="#3759e5" />
-<InboxUnarchiveLineBUSINESS color="#3fe537" />
+<Accessibility16 color="#c61515" />
+<Alert16 color="#3759e5" />
+<Archive16 color="#3fe537" />
 ```
 
 ## CSS framworks suport
@@ -68,13 +68,13 @@ Use the `class` prop to change size, colors and add additional css.
 Tailwind CSS example:
 
 ```html
-<BankFillBUILDINGS class="h-24 w-24 text-blue-700 mr-4" />
+<Accessibility16 class="h-24 w-24 text-blue-700 mr-4" />
 ```
 
 Bootstrap examples:
 
 ```html
-<BankFillBUILDINGS class="position-absolute top-0 px-1" />
+<Accessibility16 class="position-absolute top-0 px-1" />
 ```
 
 ## Dark mode
@@ -84,16 +84,16 @@ If you are using the dark mode on your website with Tailwind CSS, add your dark 
 Let's use `dark` for the dark mode class as an example.
 
 ```html
-<BankFillBUILDINGS class="text-blue-700 dark:text-red-500" />
+<Accessibility16 class="text-blue-700 dark:text-red-500" />
 ```
 
 ## aria-label
 
-All icons have aria-label. For example `BankFillBUILDINGS` has `aria-label="bank fill buildings"`.
+All icons have aria-label. For example `Accessibility16` has `aria-label="accessibility 16"`.
 Use `ariaLabel` prop to modify the `aria-label` value.
 
 ```html
-<BankFillBUILDINGS ariaLabel="bank buildings svg icon" />
+<Accessibility16 ariaLabel="accessibility" />
 ```
 
 ## Passing down other attributes
@@ -101,57 +101,57 @@ Use `ariaLabel` prop to modify the `aria-label` value.
 You can pass other attibutes as well.
 
 ```html
-<BankFillBUILDINGS tabindex="0" />
+<Accessibility16 tabindex="0" />
 ```
 
 ## Using svelte:component
 
 ```html
 <script>
-	import { BankFillBUILDINGS } from 'svelte-remix';
+  import { Accessibility16 } from 'svelte-oct';
 </script>
 
-<svelte:component this="{BankFillBUILDINGS}" />
+<svelte:component this="{Accessibility16}" />
 ```
 
 ## Using onMount
 
 ```html
 <script>
-	import { BankFillBUILDINGS } from 'svelte-remix';
-	import { onMount } from 'svelte';
-	const props = {
-		size: '50',
-		color: '#ff0000'
-	};
-	onMount(() => {
-		const icon = new BankFillBUILDINGS({ target: document.body, props });
-	});
+  import { Accessibility16 } from 'svelte-oct';
+  import { onMount } from 'svelte';
+  const props = {
+    size: '50',
+    color: '#ff0000'
+  };
+  onMount(() => {
+    const icon = new Accessibility16({ target: document.body, props });
+  });
 </script>
 ```
 
 ## Import all
 
-Use `import * as Icon from 'svelte-remix`.
+Use `import * as Icon from 'svelte-oct`.
 
 ```html
 <script>
-	import * as Icon from 'svelte-remix';
+  import * as Icon from 'svelte-oct';
 </script>
 
-<Icon.BankFillBUILDINGS />
-<Icon.MailDownloadFillBUSINESS />
+<Icon.Accessibility16 />
+<Icon.Alert16 />
 
 <h1>Size</h1>
-<Icon.BankFillBUILDINGS size="30" />
-<Icon.MailDownloadFillBUSINESS size="40" />
+<Icon.Accessibility16 size="30" />
+<Icon.Alert16 size="40" />
 
 <h1>CSS HEX color</h1>
-<Icon.BankFillBUILDINGS color="#c61515" size="40" />
+<Icon.Accessibility16 color="#c61515" size="40" />
 
 <h1>Tailwind CSS</h1>
-<Icon.BankFillBUILDINGS class="text-blue-500" />
-<Icon.MailDownloadFillBUSINESS class="text-pink-700" />
+<Icon.Accessibility16 class="text-blue-500" />
+<Icon.Alert16 class="text-pink-700" />
 ```
 
 ## Other icons
