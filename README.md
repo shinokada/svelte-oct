@@ -1,9 +1,9 @@
-# Svelte-Oct-Icons
+# Svelte-Oct icons
 
-[![npm version](https://badgen.net/npm/v/svelte-oct-icons)](https://www.npmjs.com/package/svelte-oct-icons)
-[![license](https://badgen.net/npm/license/svelte-oct-icons)](https://github.com/shinokada/svelte-oct-icons/blob/main/LICENSE)
+[![npm version](https://badgen.net/npm/v/svelte-oct)](https://www.npmjs.com/package/svelte-oct)
+[![license](https://badgen.net/npm/license/svelte-oct)](https://github.com/shinokada/svelte-oct/blob/main/LICENSE)
 
-500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-Oct-Icons support major CSS frameworks using the `class` props.
+500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct support major CSS frameworks using the `class` props.
 
 <p align="center">
 <img width="450" src="https://raw.githubusercontent.com/shinokada/svelte-remix/main/static/images/octicons.webp" />
@@ -11,12 +11,12 @@
 
 ## Icon name list
 
-[Icon list](https://github.com/shinokada/svelte-oct-icons/blob/main/icon-list.md)
+[Icon list](https://github.com/shinokada/svelte-oct/blob/main/icon-list.md)
 
 ## Installation
 
 ```sh
-npm i -D svelte-oct-icons
+npm i -D svelte-oct
 ```
 
 ## REPL
@@ -33,7 +33,7 @@ In a svelte file:
 		BankFillBUILDINGS,
 		MailDownloadFillBUSINESS,
 		InboxUnarchiveLineBUSINESS
-	} from 'svelte-oct-icons';
+	} from 'svelte-oct';
 </script>
 
 <BankFillBUILDINGS />
