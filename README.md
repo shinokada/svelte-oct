@@ -21,7 +21,7 @@ npm i -D svelte-oct
 
 ## REPL
 
-[Demo](https://svelte.dev/repl/60e7000b54004872aa4006535fcef7fd?version=3.48.0)
+[Demo](https://svelte.dev/repl/fccdaf257870448bbb6b924fda6c3a5e?version=3.49.0)
 
 ## Usages
 

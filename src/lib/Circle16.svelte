@@ -1,20 +1,20 @@
 <script lang="ts">
-	export let size = '16';
-	export let color = 'currentColor';
-	export let ariaLabel = 'circle 16';
+  export let size = '16';
+  export let color = 'currentColor';
+  export let ariaLabel = 'circle 16';
 </script>
 
 <svg
-	xmlns="http://www.w3.org/2000/svg"
-	width={size}
-	height={size}
-	fill={color}
-	class={$$props.class}
-	{...$$restProps}
-	aria-label={ariaLabel}
-	viewBox="0 0 16 16"
-	><path
-		fill-rule="evenodd"
-		d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"
-	/></svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  fill={color}
+  class={$$props.class}
+  {...$$restProps}
+  aria-label={ariaLabel}
+  viewBox="0 0 16 16"
+  ><path
+    fill-rule="evenodd"
+    d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8z"
+  /></svg
 >

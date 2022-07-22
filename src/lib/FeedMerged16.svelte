@@ -1,20 +1,20 @@
 <script lang="ts">
-	export let size = '16';
-	export let color = 'currentColor';
-	export let ariaLabel = 'feed merged 16';
+  export let size = '16';
+  export let color = 'currentColor';
+  export let ariaLabel = 'feed merged 16';
 </script>
 
 <svg
-	xmlns="http://www.w3.org/2000/svg"
-	width={size}
-	height={size}
-	fill={color}
-	class={$$props.class}
-	{...$$restProps}
-	aria-label={ariaLabel}
-	viewBox="0 0 16 16"
-	><path
-		fill-rule="evenodd"
-		d="M8 16A8 8 0 108 0a8 8 0 000 16zm.25-11.25a1.75 1.75 0 01-1.207 1.664A2 2 0 009 8h.571a1.75 1.75 0 110 1H9a2.99 2.99 0 01-2-.764v1.336a1.75 1.75 0 11-1 0V6.428A1.75 1.75 0 118.25 4.75z"
-	/></svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  fill={color}
+  class={$$props.class}
+  {...$$restProps}
+  aria-label={ariaLabel}
+  viewBox="0 0 16 16"
+  ><path
+    fill-rule="evenodd"
+    d="M8 16A8 8 0 108 0a8 8 0 000 16zm.25-11.25a1.75 1.75 0 01-1.207 1.664A2 2 0 009 8h.571a1.75 1.75 0 110 1H9a2.99 2.99 0 01-2-.764v1.336a1.75 1.75 0 11-1 0V6.428A1.75 1.75 0 118.25 4.75z"
+  /></svg
 >

@@ -1,19 +1,19 @@
 <script lang="ts">
-	export let size = '16';
-	export let color = 'currentColor';
-	export let ariaLabel = 'triangle right 24';
+  export let size = '16';
+  export let color = 'currentColor';
+  export let ariaLabel = 'triangle right 24';
 </script>
 
 <svg
-	xmlns="http://www.w3.org/2000/svg"
-	width={size}
-	height={size}
-	fill={color}
-	class={$$props.class}
-	{...$$restProps}
-	aria-label={ariaLabel}
-	viewBox="0 0 24 24"
-	><path
-		d="M15.146 12.354l-5.792 5.792a.5.5 0 01-.854-.353V6.207a.5.5 0 01.854-.353l5.792 5.792a.5.5 0 010 .708z"
-	/></svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  fill={color}
+  class={$$props.class}
+  {...$$restProps}
+  aria-label={ariaLabel}
+  viewBox="0 0 24 24"
+  ><path
+    d="M15.146 12.354l-5.792 5.792a.5.5 0 01-.854-.353V6.207a.5.5 0 01.854-.353l5.792 5.792a.5.5 0 010 .708z"
+  /></svg
 >

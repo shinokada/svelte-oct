@@ -1,20 +1,20 @@
 <script lang="ts">
-	export let size = '16';
-	export let color = 'currentColor';
-	export let ariaLabel = 'feed star 16';
+  export let size = '16';
+  export let color = 'currentColor';
+  export let ariaLabel = 'feed star 16';
 </script>
 
 <svg
-	xmlns="http://www.w3.org/2000/svg"
-	width={size}
-	height={size}
-	fill={color}
-	class={$$props.class}
-	{...$$restProps}
-	aria-label={ariaLabel}
-	viewBox="0 0 16 16"
-	><path
-		fill-rule="evenodd"
-		d="M8 16A8 8 0 108 0a8 8 0 000 16zm.252-12.932a.478.478 0 00-.682.195l-1.2 2.432-2.684.39a.478.478 0 00-.266.816l1.944 1.892-.46 2.674a.478.478 0 00.694.504L8 10.709l2.4 1.261a.478.478 0 00.694-.504l-.458-2.673L12.578 6.9a.479.479 0 00-.265-.815l-2.685-.39-1.2-2.432a.478.478 0 00-.176-.195z"
-	/></svg
+  xmlns="http://www.w3.org/2000/svg"
+  width={size}
+  height={size}
+  fill={color}
+  class={$$props.class}
+  {...$$restProps}
+  aria-label={ariaLabel}
+  viewBox="0 0 16 16"
+  ><path
+    fill-rule="evenodd"
+    d="M8 16A8 8 0 108 0a8 8 0 000 16zm.252-12.932a.478.478 0 00-.682.195l-1.2 2.432-2.684.39a.478.478 0 00-.266.816l1.944 1.892-.46 2.674a.478.478 0 00.694.504L8 10.709l2.4 1.261a.478.478 0 00.694-.504l-.458-2.673L12.578 6.9a.479.479 0 00-.265-.815l-2.685-.39-1.2-2.432a.478.478 0 00-.176-.195z"
+  /></svg
 >
