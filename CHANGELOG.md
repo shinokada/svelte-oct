@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/shinokada/svelte-oct/compare/v0.1.0...v0.1.1) (2022-12-16)
+
+
+### Features
+
+* add docsify ([2dabbb4](https://github.com/shinokada/svelte-oct/commit/2dabbb4e2b00e4724cd5369519682274da76ae7c))
+
 ## 0.1.0 (2022-07-22)
 
 ### ⚠ BREAKING CHANGES
