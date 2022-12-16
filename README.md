@@ -1,7 +1,15 @@
-# Svelte-Oct icons
+<h1 align="center">svelte-oct</h1>
 
-[![npm version](https://badgen.net/npm/v/svelte-oct)](https://www.npmjs.com/package/svelte-oct)
-[![license](https://badgen.net/npm/license/svelte-oct)](https://github.com/shinokada/svelte-oct/blob/main/LICENSE)
+<p align="center">
+<a href="https://shinokada.github.io/svelte-oct/">Svelte-Oct</a>
+</p>
+
+<p align="center">
+<a href="https://www.npmjs.com/package/svelte-oct" rel="nofollow"><img src="https://img.shields.io/npm/v/svelte-oct" alt="npm"></a>
+<a href="https://twitter.com/shinokada" rel="nofollow"><img src="https://img.shields.io/badge/created%20by-@shinokada-4BBAAB.svg" alt="Created by Shin Okada"></a>
+<a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://img.shields.io/github/license/shinokada/svelte-oct" alt="License"></a>
+<a href="https://www.npmjs.com/package/svelte-oct" rel="nofollow"><img src="https://img.shields.io/npm/dw/svelte-oct.svg" alt="npm"></a>
+</p>
 
 500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct icons support major CSS frameworks using the `class` props.
 
@@ -21,7 +29,7 @@ npm i -D svelte-oct
 
 ## REPL
 
-[Demo](https://svelte.dev/repl/fccdaf257870448bbb6b924fda6c3a5e?version=3.49.0)
+[Demo](https://svelte.dev/repl/fccdaf257870448bbb6b924fda6c3a5e)
 
 ## Usages
 
