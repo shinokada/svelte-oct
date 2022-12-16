@@ -1,4 +1,4 @@
-<h1 align="center">svelte-oct</h1>
+<h1 align="center">Svelte-Oct</h1>
 
 <p align="center">
 <a href="https://shinokada.github.io/svelte-oct/">Svelte-Oct</a>
