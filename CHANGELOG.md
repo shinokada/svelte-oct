@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.3](https://github.com/shinokada/svelte-oct/compare/v0.1.2...v0.1.3) (2022-12-16)
 
-
 ### Bug Fixes
 
-* typo ([5c2ec6d](https://github.com/shinokada/svelte-oct/commit/5c2ec6dd8e33f45101ef18616ef6d17d2c773f13))
+- typo ([5c2ec6d](https://github.com/shinokada/svelte-oct/commit/5c2ec6dd8e33f45101ef18616ef6d17d2c773f13))
 
 ### [0.1.2](https://github.com/shinokada/svelte-oct/compare/v0.1.1...v0.1.2) (2022-12-16)
 

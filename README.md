@@ -1,7 +1,7 @@
 <h1 align="center">Svelte-Oct</h1>
 
 <p align="center">
-<a href="https://shinokada.github.io/svelte-oct/">Svelte-Oct</a>
+<a href="https://svelte-oct.codewithshin.com/">Svelte-Oct</a>
 </p>
 
 <p align="center">
