@@ -15,12 +15,16 @@
 500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct icons support major CSS frameworks using the `class` props.
 
 <p align="center">
-<img width="600" src="/static/images/oct-2.png" />
+<img width="650" src="/static/images/oct-650-1050.png" />
 </p>
 
 ## Icon name list
 
 [Icon list](/icon-list.md)
+
+## Icon images
+
+[Icon images](/icon-images.md)
 
 ## Installation
 

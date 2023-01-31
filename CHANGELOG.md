@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.5](https://github.com/shinokada/svelte-oct/compare/v0.1.4...v0.1.5) (2023-01-31)
 
-
 ### Features
 
-* add pwa ([74a8fe9](https://github.com/shinokada/svelte-oct/commit/74a8fe9c740b099cd46b164a54afda2db019d93b))
+- add pwa ([74a8fe9](https://github.com/shinokada/svelte-oct/commit/74a8fe9c740b099cd46b164a54afda2db019d93b))
 
 ### [0.1.4](https://github.com/shinokada/svelte-oct/compare/v0.1.3...v0.1.4) (2022-12-25)
 
