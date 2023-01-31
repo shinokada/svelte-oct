@@ -1,10 +1,11 @@
-<h1 align="center">Svelte-Oct</h1>
+<h1 align="center">Svelte Oct</h1>
 
 <p align="center">
 <a href="https://svelte-oct.codewithshin.com/">Svelte-Oct</a>
 </p>
 
 <p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img src="https://img.shields.io/badge/PWA-enabled-brightgreen" alt="PWA Shield"></a>
 <a href="https://www.npmjs.com/package/svelte-oct" rel="nofollow"><img src="https://img.shields.io/npm/v/svelte-oct" alt="npm"></a>
 <a href="https://twitter.com/shinokada" rel="nofollow"><img src="https://img.shields.io/badge/created%20by-@shinokada-4BBAAB.svg" alt="Created by Shin Okada"></a>
 <a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://img.shields.io/github/license/shinokada/svelte-oct" alt="License"></a>
@@ -14,12 +15,12 @@
 500+ SVG [Octicons](https://github.com/primer/octicons) components for Svelte. Svelte-oct icons support major CSS frameworks using the `class` props.
 
 <p align="center">
-<img width="450" src="https://raw.githubusercontent.com/shinokada/svelte-oct/main/static/images/octicons.webp" />
+<img width="600" src="/static/images/oct-2.png" />
 </p>
 
 ## Icon name list
 
-[Icon list](https://github.com/shinokada/svelte-oct/blob/main/icon-list.md)
+[Icon list](/icon-list.md)
 
 ## Installation
 
@@ -161,3 +162,9 @@ Use `import * as Icon from 'svelte-oct`.
 ## Other icons
 
 - [Svelte-Icon-Sets](https://svelte-svg-icons.vercel.app/)
+
+## Experience lightning-fast browsing and offline access with Our PWA
+
+This website can be downloaded and installed on your device for offline access as a Progressive Web App.
+
+To install a PWA, look for the "Add to Home Screen" option in the browser's menu or settings. On most mobile devices, this option can be found by visiting the website, then selecting the "Options" or "Menu" button in the browser, and looking for the "Add to Home Screen" option. On some desktop browsers, right-click on the page and select "Install".
