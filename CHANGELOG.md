@@ -4,13 +4,12 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.7](https://github.com/shinokada/svelte-oct/compare/v0.1.6...v0.1.7) (2023-02-01)
 
-
 ### Bug Fixes
 
-* add optimized image ([fdab6e3](https://github.com/shinokada/svelte-oct/commit/fdab6e3d02efe6f2abfe8acb3a8fe501358439e4))
-* badges target, height, and add links to crossOriginLinks ([f616e20](https://github.com/shinokada/svelte-oct/commit/f616e20a1d95efd66709b0d9f98e729299471194))
-* favicon link ([d97af9a](https://github.com/shinokada/svelte-oct/commit/d97af9a8325473b173fe34cddae557bc26af1490))
-* manifest name update ([17396e0](https://github.com/shinokada/svelte-oct/commit/17396e03069bd04324d18b22d89ef388950f5b48))
+- add optimized image ([fdab6e3](https://github.com/shinokada/svelte-oct/commit/fdab6e3d02efe6f2abfe8acb3a8fe501358439e4))
+- badges target, height, and add links to crossOriginLinks ([f616e20](https://github.com/shinokada/svelte-oct/commit/f616e20a1d95efd66709b0d9f98e729299471194))
+- favicon link ([d97af9a](https://github.com/shinokada/svelte-oct/commit/d97af9a8325473b173fe34cddae557bc26af1490))
+- manifest name update ([17396e0](https://github.com/shinokada/svelte-oct/commit/17396e03069bd04324d18b22d89ef388950f5b48))
 
 ### [0.1.6](https://github.com/shinokada/svelte-oct/compare/v0.1.5...v0.1.6) (2023-01-31)
 
