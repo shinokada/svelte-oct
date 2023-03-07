@@ -4,11 +4,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.3.1](https://github.com/shinokada/svelte-oct/compare/v0.2.1...v0.3.1) (2023-03-07)
 
-
 ### Features
 
-* add script add-exports ([3a38632](https://github.com/shinokada/svelte-oct/commit/3a38632ee4ef90c1ed46f68e2b31920358a54bab))
-* add script add-exports and update README ([d321ce3](https://github.com/shinokada/svelte-oct/commit/d321ce3f625b1c8fb9ee59904d48def012309790))
+- add script add-exports ([3a38632](https://github.com/shinokada/svelte-oct/commit/3a38632ee4ef90c1ed46f68e2b31920358a54bab))
+- add script add-exports and update README ([d321ce3](https://github.com/shinokada/svelte-oct/commit/d321ce3f625b1c8fb9ee59904d48def012309790))
 
 ### [0.2.1](https://github.com/shinokada/svelte-oct/compare/v0.1.7...v0.2.1) (2023-02-22)
 

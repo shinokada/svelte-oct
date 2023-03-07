@@ -65,5 +65,2035 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/shinokada/svelte-oct"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "svelte": "./dist/index.js"
+    },
+    "./Accessibility16.svelte": {
+      "types": "./dist/Accessibility16.svelte.d.ts",
+      "svelte": "./dist/Accessibility16.svelte"
+    },
+    "./Alert16.svelte": {
+      "types": "./dist/Alert16.svelte.d.ts",
+      "svelte": "./dist/Alert16.svelte"
+    },
+    "./Alert24.svelte": {
+      "types": "./dist/Alert24.svelte.d.ts",
+      "svelte": "./dist/Alert24.svelte"
+    },
+    "./AlertFill12.svelte": {
+      "types": "./dist/AlertFill12.svelte.d.ts",
+      "svelte": "./dist/AlertFill12.svelte"
+    },
+    "./Apps16.svelte": {
+      "types": "./dist/Apps16.svelte.d.ts",
+      "svelte": "./dist/Apps16.svelte"
+    },
+    "./Archive16.svelte": {
+      "types": "./dist/Archive16.svelte.d.ts",
+      "svelte": "./dist/Archive16.svelte"
+    },
+    "./Archive24.svelte": {
+      "types": "./dist/Archive24.svelte.d.ts",
+      "svelte": "./dist/Archive24.svelte"
+    },
+    "./ArrowBoth16.svelte": {
+      "types": "./dist/ArrowBoth16.svelte.d.ts",
+      "svelte": "./dist/ArrowBoth16.svelte"
+    },
+    "./ArrowBoth24.svelte": {
+      "types": "./dist/ArrowBoth24.svelte.d.ts",
+      "svelte": "./dist/ArrowBoth24.svelte"
+    },
+    "./ArrowDown16.svelte": {
+      "types": "./dist/ArrowDown16.svelte.d.ts",
+      "svelte": "./dist/ArrowDown16.svelte"
+    },
+    "./ArrowDown24.svelte": {
+      "types": "./dist/ArrowDown24.svelte.d.ts",
+      "svelte": "./dist/ArrowDown24.svelte"
+    },
+    "./ArrowDownLeft24.svelte": {
+      "types": "./dist/ArrowDownLeft24.svelte.d.ts",
+      "svelte": "./dist/ArrowDownLeft24.svelte"
+    },
+    "./ArrowDownRight24.svelte": {
+      "types": "./dist/ArrowDownRight24.svelte.d.ts",
+      "svelte": "./dist/ArrowDownRight24.svelte"
+    },
+    "./ArrowLeft16.svelte": {
+      "types": "./dist/ArrowLeft16.svelte.d.ts",
+      "svelte": "./dist/ArrowLeft16.svelte"
+    },
+    "./ArrowLeft24.svelte": {
+      "types": "./dist/ArrowLeft24.svelte.d.ts",
+      "svelte": "./dist/ArrowLeft24.svelte"
+    },
+    "./ArrowRight16.svelte": {
+      "types": "./dist/ArrowRight16.svelte.d.ts",
+      "svelte": "./dist/ArrowRight16.svelte"
+    },
+    "./ArrowRight24.svelte": {
+      "types": "./dist/ArrowRight24.svelte.d.ts",
+      "svelte": "./dist/ArrowRight24.svelte"
+    },
+    "./ArrowSwitch16.svelte": {
+      "types": "./dist/ArrowSwitch16.svelte.d.ts",
+      "svelte": "./dist/ArrowSwitch16.svelte"
+    },
+    "./ArrowSwitch24.svelte": {
+      "types": "./dist/ArrowSwitch24.svelte.d.ts",
+      "svelte": "./dist/ArrowSwitch24.svelte"
+    },
+    "./ArrowUp16.svelte": {
+      "types": "./dist/ArrowUp16.svelte.d.ts",
+      "svelte": "./dist/ArrowUp16.svelte"
+    },
+    "./ArrowUp24.svelte": {
+      "types": "./dist/ArrowUp24.svelte.d.ts",
+      "svelte": "./dist/ArrowUp24.svelte"
+    },
+    "./ArrowUpLeft24.svelte": {
+      "types": "./dist/ArrowUpLeft24.svelte.d.ts",
+      "svelte": "./dist/ArrowUpLeft24.svelte"
+    },
+    "./ArrowUpRight24.svelte": {
+      "types": "./dist/ArrowUpRight24.svelte.d.ts",
+      "svelte": "./dist/ArrowUpRight24.svelte"
+    },
+    "./Beaker16.svelte": {
+      "types": "./dist/Beaker16.svelte.d.ts",
+      "svelte": "./dist/Beaker16.svelte"
+    },
+    "./Beaker24.svelte": {
+      "types": "./dist/Beaker24.svelte.d.ts",
+      "svelte": "./dist/Beaker24.svelte"
+    },
+    "./Bell16.svelte": {
+      "types": "./dist/Bell16.svelte.d.ts",
+      "svelte": "./dist/Bell16.svelte"
+    },
+    "./Bell24.svelte": {
+      "types": "./dist/Bell24.svelte.d.ts",
+      "svelte": "./dist/Bell24.svelte"
+    },
+    "./BellFill16.svelte": {
+      "types": "./dist/BellFill16.svelte.d.ts",
+      "svelte": "./dist/BellFill16.svelte"
+    },
+    "./BellFill24.svelte": {
+      "types": "./dist/BellFill24.svelte.d.ts",
+      "svelte": "./dist/BellFill24.svelte"
+    },
+    "./BellSlash16.svelte": {
+      "types": "./dist/BellSlash16.svelte.d.ts",
+      "svelte": "./dist/BellSlash16.svelte"
+    },
+    "./BellSlash24.svelte": {
+      "types": "./dist/BellSlash24.svelte.d.ts",
+      "svelte": "./dist/BellSlash24.svelte"
+    },
+    "./Blocked16.svelte": {
+      "types": "./dist/Blocked16.svelte.d.ts",
+      "svelte": "./dist/Blocked16.svelte"
+    },
+    "./Blocked24.svelte": {
+      "types": "./dist/Blocked24.svelte.d.ts",
+      "svelte": "./dist/Blocked24.svelte"
+    },
+    "./Bold16.svelte": {
+      "types": "./dist/Bold16.svelte.d.ts",
+      "svelte": "./dist/Bold16.svelte"
+    },
+    "./Bold24.svelte": {
+      "types": "./dist/Bold24.svelte.d.ts",
+      "svelte": "./dist/Bold24.svelte"
+    },
+    "./Book16.svelte": {
+      "types": "./dist/Book16.svelte.d.ts",
+      "svelte": "./dist/Book16.svelte"
+    },
+    "./Book24.svelte": {
+      "types": "./dist/Book24.svelte.d.ts",
+      "svelte": "./dist/Book24.svelte"
+    },
+    "./Bookmark16.svelte": {
+      "types": "./dist/Bookmark16.svelte.d.ts",
+      "svelte": "./dist/Bookmark16.svelte"
+    },
+    "./Bookmark24.svelte": {
+      "types": "./dist/Bookmark24.svelte.d.ts",
+      "svelte": "./dist/Bookmark24.svelte"
+    },
+    "./BookmarkFill24.svelte": {
+      "types": "./dist/BookmarkFill24.svelte.d.ts",
+      "svelte": "./dist/BookmarkFill24.svelte"
+    },
+    "./BookmarkSlash16.svelte": {
+      "types": "./dist/BookmarkSlash16.svelte.d.ts",
+      "svelte": "./dist/BookmarkSlash16.svelte"
+    },
+    "./BookmarkSlash24.svelte": {
+      "types": "./dist/BookmarkSlash24.svelte.d.ts",
+      "svelte": "./dist/BookmarkSlash24.svelte"
+    },
+    "./BookmarkSlashFill24.svelte": {
+      "types": "./dist/BookmarkSlashFill24.svelte.d.ts",
+      "svelte": "./dist/BookmarkSlashFill24.svelte"
+    },
+    "./Briefcase16.svelte": {
+      "types": "./dist/Briefcase16.svelte.d.ts",
+      "svelte": "./dist/Briefcase16.svelte"
+    },
+    "./Briefcase24.svelte": {
+      "types": "./dist/Briefcase24.svelte.d.ts",
+      "svelte": "./dist/Briefcase24.svelte"
+    },
+    "./Broadcast16.svelte": {
+      "types": "./dist/Broadcast16.svelte.d.ts",
+      "svelte": "./dist/Broadcast16.svelte"
+    },
+    "./Broadcast24.svelte": {
+      "types": "./dist/Broadcast24.svelte.d.ts",
+      "svelte": "./dist/Broadcast24.svelte"
+    },
+    "./Browser16.svelte": {
+      "types": "./dist/Browser16.svelte.d.ts",
+      "svelte": "./dist/Browser16.svelte"
+    },
+    "./Browser24.svelte": {
+      "types": "./dist/Browser24.svelte.d.ts",
+      "svelte": "./dist/Browser24.svelte"
+    },
+    "./Bug16.svelte": {
+      "types": "./dist/Bug16.svelte.d.ts",
+      "svelte": "./dist/Bug16.svelte"
+    },
+    "./Bug24.svelte": {
+      "types": "./dist/Bug24.svelte.d.ts",
+      "svelte": "./dist/Bug24.svelte"
+    },
+    "./Calendar16.svelte": {
+      "types": "./dist/Calendar16.svelte.d.ts",
+      "svelte": "./dist/Calendar16.svelte"
+    },
+    "./Calendar24.svelte": {
+      "types": "./dist/Calendar24.svelte.d.ts",
+      "svelte": "./dist/Calendar24.svelte"
+    },
+    "./Check16.svelte": {
+      "types": "./dist/Check16.svelte.d.ts",
+      "svelte": "./dist/Check16.svelte"
+    },
+    "./Check24.svelte": {
+      "types": "./dist/Check24.svelte.d.ts",
+      "svelte": "./dist/Check24.svelte"
+    },
+    "./CheckCircle16.svelte": {
+      "types": "./dist/CheckCircle16.svelte.d.ts",
+      "svelte": "./dist/CheckCircle16.svelte"
+    },
+    "./CheckCircle24.svelte": {
+      "types": "./dist/CheckCircle24.svelte.d.ts",
+      "svelte": "./dist/CheckCircle24.svelte"
+    },
+    "./CheckCircleFill12.svelte": {
+      "types": "./dist/CheckCircleFill12.svelte.d.ts",
+      "svelte": "./dist/CheckCircleFill12.svelte"
+    },
+    "./CheckCircleFill16.svelte": {
+      "types": "./dist/CheckCircleFill16.svelte.d.ts",
+      "svelte": "./dist/CheckCircleFill16.svelte"
+    },
+    "./CheckCircleFill24.svelte": {
+      "types": "./dist/CheckCircleFill24.svelte.d.ts",
+      "svelte": "./dist/CheckCircleFill24.svelte"
+    },
+    "./Checklist16.svelte": {
+      "types": "./dist/Checklist16.svelte.d.ts",
+      "svelte": "./dist/Checklist16.svelte"
+    },
+    "./Checklist24.svelte": {
+      "types": "./dist/Checklist24.svelte.d.ts",
+      "svelte": "./dist/Checklist24.svelte"
+    },
+    "./ChevronDown16.svelte": {
+      "types": "./dist/ChevronDown16.svelte.d.ts",
+      "svelte": "./dist/ChevronDown16.svelte"
+    },
+    "./ChevronDown24.svelte": {
+      "types": "./dist/ChevronDown24.svelte.d.ts",
+      "svelte": "./dist/ChevronDown24.svelte"
+    },
+    "./ChevronLeft16.svelte": {
+      "types": "./dist/ChevronLeft16.svelte.d.ts",
+      "svelte": "./dist/ChevronLeft16.svelte"
+    },
+    "./ChevronLeft24.svelte": {
+      "types": "./dist/ChevronLeft24.svelte.d.ts",
+      "svelte": "./dist/ChevronLeft24.svelte"
+    },
+    "./ChevronRight16.svelte": {
+      "types": "./dist/ChevronRight16.svelte.d.ts",
+      "svelte": "./dist/ChevronRight16.svelte"
+    },
+    "./ChevronRight24.svelte": {
+      "types": "./dist/ChevronRight24.svelte.d.ts",
+      "svelte": "./dist/ChevronRight24.svelte"
+    },
+    "./ChevronUp16.svelte": {
+      "types": "./dist/ChevronUp16.svelte.d.ts",
+      "svelte": "./dist/ChevronUp16.svelte"
+    },
+    "./ChevronUp24.svelte": {
+      "types": "./dist/ChevronUp24.svelte.d.ts",
+      "svelte": "./dist/ChevronUp24.svelte"
+    },
+    "./Circle16.svelte": {
+      "types": "./dist/Circle16.svelte.d.ts",
+      "svelte": "./dist/Circle16.svelte"
+    },
+    "./Circle24.svelte": {
+      "types": "./dist/Circle24.svelte.d.ts",
+      "svelte": "./dist/Circle24.svelte"
+    },
+    "./CircleSlash16.svelte": {
+      "types": "./dist/CircleSlash16.svelte.d.ts",
+      "svelte": "./dist/CircleSlash16.svelte"
+    },
+    "./CircleSlash24.svelte": {
+      "types": "./dist/CircleSlash24.svelte.d.ts",
+      "svelte": "./dist/CircleSlash24.svelte"
+    },
+    "./Clock16.svelte": {
+      "types": "./dist/Clock16.svelte.d.ts",
+      "svelte": "./dist/Clock16.svelte"
+    },
+    "./Clock24.svelte": {
+      "types": "./dist/Clock24.svelte.d.ts",
+      "svelte": "./dist/Clock24.svelte"
+    },
+    "./Cloud16.svelte": {
+      "types": "./dist/Cloud16.svelte.d.ts",
+      "svelte": "./dist/Cloud16.svelte"
+    },
+    "./Cloud24.svelte": {
+      "types": "./dist/Cloud24.svelte.d.ts",
+      "svelte": "./dist/Cloud24.svelte"
+    },
+    "./CloudOffline16.svelte": {
+      "types": "./dist/CloudOffline16.svelte.d.ts",
+      "svelte": "./dist/CloudOffline16.svelte"
+    },
+    "./CloudOffline24.svelte": {
+      "types": "./dist/CloudOffline24.svelte.d.ts",
+      "svelte": "./dist/CloudOffline24.svelte"
+    },
+    "./Code16.svelte": {
+      "types": "./dist/Code16.svelte.d.ts",
+      "svelte": "./dist/Code16.svelte"
+    },
+    "./Code24.svelte": {
+      "types": "./dist/Code24.svelte.d.ts",
+      "svelte": "./dist/Code24.svelte"
+    },
+    "./CodeOfConduct16.svelte": {
+      "types": "./dist/CodeOfConduct16.svelte.d.ts",
+      "svelte": "./dist/CodeOfConduct16.svelte"
+    },
+    "./CodeOfConduct24.svelte": {
+      "types": "./dist/CodeOfConduct24.svelte.d.ts",
+      "svelte": "./dist/CodeOfConduct24.svelte"
+    },
+    "./CodeReview16.svelte": {
+      "types": "./dist/CodeReview16.svelte.d.ts",
+      "svelte": "./dist/CodeReview16.svelte"
+    },
+    "./CodeReview24.svelte": {
+      "types": "./dist/CodeReview24.svelte.d.ts",
+      "svelte": "./dist/CodeReview24.svelte"
+    },
+    "./CodeSquare16.svelte": {
+      "types": "./dist/CodeSquare16.svelte.d.ts",
+      "svelte": "./dist/CodeSquare16.svelte"
+    },
+    "./CodeSquare24.svelte": {
+      "types": "./dist/CodeSquare24.svelte.d.ts",
+      "svelte": "./dist/CodeSquare24.svelte"
+    },
+    "./Codescan16.svelte": {
+      "types": "./dist/Codescan16.svelte.d.ts",
+      "svelte": "./dist/Codescan16.svelte"
+    },
+    "./Codescan24.svelte": {
+      "types": "./dist/Codescan24.svelte.d.ts",
+      "svelte": "./dist/Codescan24.svelte"
+    },
+    "./CodescanCheckmark16.svelte": {
+      "types": "./dist/CodescanCheckmark16.svelte.d.ts",
+      "svelte": "./dist/CodescanCheckmark16.svelte"
+    },
+    "./CodescanCheckmark24.svelte": {
+      "types": "./dist/CodescanCheckmark24.svelte.d.ts",
+      "svelte": "./dist/CodescanCheckmark24.svelte"
+    },
+    "./Codespaces16.svelte": {
+      "types": "./dist/Codespaces16.svelte.d.ts",
+      "svelte": "./dist/Codespaces16.svelte"
+    },
+    "./Codespaces24.svelte": {
+      "types": "./dist/Codespaces24.svelte.d.ts",
+      "svelte": "./dist/Codespaces24.svelte"
+    },
+    "./Columns16.svelte": {
+      "types": "./dist/Columns16.svelte.d.ts",
+      "svelte": "./dist/Columns16.svelte"
+    },
+    "./Columns24.svelte": {
+      "types": "./dist/Columns24.svelte.d.ts",
+      "svelte": "./dist/Columns24.svelte"
+    },
+    "./Comment16.svelte": {
+      "types": "./dist/Comment16.svelte.d.ts",
+      "svelte": "./dist/Comment16.svelte"
+    },
+    "./Comment24.svelte": {
+      "types": "./dist/Comment24.svelte.d.ts",
+      "svelte": "./dist/Comment24.svelte"
+    },
+    "./CommentDiscussion16.svelte": {
+      "types": "./dist/CommentDiscussion16.svelte.d.ts",
+      "svelte": "./dist/CommentDiscussion16.svelte"
+    },
+    "./CommentDiscussion24.svelte": {
+      "types": "./dist/CommentDiscussion24.svelte.d.ts",
+      "svelte": "./dist/CommentDiscussion24.svelte"
+    },
+    "./Commit24.svelte": {
+      "types": "./dist/Commit24.svelte.d.ts",
+      "svelte": "./dist/Commit24.svelte"
+    },
+    "./Container16.svelte": {
+      "types": "./dist/Container16.svelte.d.ts",
+      "svelte": "./dist/Container16.svelte"
+    },
+    "./Container24.svelte": {
+      "types": "./dist/Container24.svelte.d.ts",
+      "svelte": "./dist/Container24.svelte"
+    },
+    "./Copilot16.svelte": {
+      "types": "./dist/Copilot16.svelte.d.ts",
+      "svelte": "./dist/Copilot16.svelte"
+    },
+    "./Copilot24.svelte": {
+      "types": "./dist/Copilot24.svelte.d.ts",
+      "svelte": "./dist/Copilot24.svelte"
+    },
+    "./Copilot48.svelte": {
+      "types": "./dist/Copilot48.svelte.d.ts",
+      "svelte": "./dist/Copilot48.svelte"
+    },
+    "./Copilot96.svelte": {
+      "types": "./dist/Copilot96.svelte.d.ts",
+      "svelte": "./dist/Copilot96.svelte"
+    },
+    "./CopilotError16.svelte": {
+      "types": "./dist/CopilotError16.svelte.d.ts",
+      "svelte": "./dist/CopilotError16.svelte"
+    },
+    "./CopilotWarning16.svelte": {
+      "types": "./dist/CopilotWarning16.svelte.d.ts",
+      "svelte": "./dist/CopilotWarning16.svelte"
+    },
+    "./Copy16.svelte": {
+      "types": "./dist/Copy16.svelte.d.ts",
+      "svelte": "./dist/Copy16.svelte"
+    },
+    "./Copy24.svelte": {
+      "types": "./dist/Copy24.svelte.d.ts",
+      "svelte": "./dist/Copy24.svelte"
+    },
+    "./Cpu16.svelte": {
+      "types": "./dist/Cpu16.svelte.d.ts",
+      "svelte": "./dist/Cpu16.svelte"
+    },
+    "./Cpu24.svelte": {
+      "types": "./dist/Cpu24.svelte.d.ts",
+      "svelte": "./dist/Cpu24.svelte"
+    },
+    "./CreditCard16.svelte": {
+      "types": "./dist/CreditCard16.svelte.d.ts",
+      "svelte": "./dist/CreditCard16.svelte"
+    },
+    "./CreditCard24.svelte": {
+      "types": "./dist/CreditCard24.svelte.d.ts",
+      "svelte": "./dist/CreditCard24.svelte"
+    },
+    "./CrossReference16.svelte": {
+      "types": "./dist/CrossReference16.svelte.d.ts",
+      "svelte": "./dist/CrossReference16.svelte"
+    },
+    "./CrossReference24.svelte": {
+      "types": "./dist/CrossReference24.svelte.d.ts",
+      "svelte": "./dist/CrossReference24.svelte"
+    },
+    "./Dash16.svelte": {
+      "types": "./dist/Dash16.svelte.d.ts",
+      "svelte": "./dist/Dash16.svelte"
+    },
+    "./Dash24.svelte": {
+      "types": "./dist/Dash24.svelte.d.ts",
+      "svelte": "./dist/Dash24.svelte"
+    },
+    "./Database16.svelte": {
+      "types": "./dist/Database16.svelte.d.ts",
+      "svelte": "./dist/Database16.svelte"
+    },
+    "./Database24.svelte": {
+      "types": "./dist/Database24.svelte.d.ts",
+      "svelte": "./dist/Database24.svelte"
+    },
+    "./Dependabot16.svelte": {
+      "types": "./dist/Dependabot16.svelte.d.ts",
+      "svelte": "./dist/Dependabot16.svelte"
+    },
+    "./Dependabot24.svelte": {
+      "types": "./dist/Dependabot24.svelte.d.ts",
+      "svelte": "./dist/Dependabot24.svelte"
+    },
+    "./DesktopDownload16.svelte": {
+      "types": "./dist/DesktopDownload16.svelte.d.ts",
+      "svelte": "./dist/DesktopDownload16.svelte"
+    },
+    "./DesktopDownload24.svelte": {
+      "types": "./dist/DesktopDownload24.svelte.d.ts",
+      "svelte": "./dist/DesktopDownload24.svelte"
+    },
+    "./DeviceCamera16.svelte": {
+      "types": "./dist/DeviceCamera16.svelte.d.ts",
+      "svelte": "./dist/DeviceCamera16.svelte"
+    },
+    "./DeviceCameraVideo16.svelte": {
+      "types": "./dist/DeviceCameraVideo16.svelte.d.ts",
+      "svelte": "./dist/DeviceCameraVideo16.svelte"
+    },
+    "./DeviceCameraVideo24.svelte": {
+      "types": "./dist/DeviceCameraVideo24.svelte.d.ts",
+      "svelte": "./dist/DeviceCameraVideo24.svelte"
+    },
+    "./DeviceDesktop16.svelte": {
+      "types": "./dist/DeviceDesktop16.svelte.d.ts",
+      "svelte": "./dist/DeviceDesktop16.svelte"
+    },
+    "./DeviceDesktop24.svelte": {
+      "types": "./dist/DeviceDesktop24.svelte.d.ts",
+      "svelte": "./dist/DeviceDesktop24.svelte"
+    },
+    "./DeviceMobile16.svelte": {
+      "types": "./dist/DeviceMobile16.svelte.d.ts",
+      "svelte": "./dist/DeviceMobile16.svelte"
+    },
+    "./DeviceMobile24.svelte": {
+      "types": "./dist/DeviceMobile24.svelte.d.ts",
+      "svelte": "./dist/DeviceMobile24.svelte"
+    },
+    "./Diamond16.svelte": {
+      "types": "./dist/Diamond16.svelte.d.ts",
+      "svelte": "./dist/Diamond16.svelte"
+    },
+    "./Diamond24.svelte": {
+      "types": "./dist/Diamond24.svelte.d.ts",
+      "svelte": "./dist/Diamond24.svelte"
+    },
+    "./Diff16.svelte": {
+      "types": "./dist/Diff16.svelte.d.ts",
+      "svelte": "./dist/Diff16.svelte"
+    },
+    "./Diff24.svelte": {
+      "types": "./dist/Diff24.svelte.d.ts",
+      "svelte": "./dist/Diff24.svelte"
+    },
+    "./DiffAdded16.svelte": {
+      "types": "./dist/DiffAdded16.svelte.d.ts",
+      "svelte": "./dist/DiffAdded16.svelte"
+    },
+    "./DiffIgnored16.svelte": {
+      "types": "./dist/DiffIgnored16.svelte.d.ts",
+      "svelte": "./dist/DiffIgnored16.svelte"
+    },
+    "./DiffModified16.svelte": {
+      "types": "./dist/DiffModified16.svelte.d.ts",
+      "svelte": "./dist/DiffModified16.svelte"
+    },
+    "./DiffRemoved16.svelte": {
+      "types": "./dist/DiffRemoved16.svelte.d.ts",
+      "svelte": "./dist/DiffRemoved16.svelte"
+    },
+    "./DiffRenamed16.svelte": {
+      "types": "./dist/DiffRenamed16.svelte.d.ts",
+      "svelte": "./dist/DiffRenamed16.svelte"
+    },
+    "./Dot16.svelte": {
+      "types": "./dist/Dot16.svelte.d.ts",
+      "svelte": "./dist/Dot16.svelte"
+    },
+    "./Dot24.svelte": {
+      "types": "./dist/Dot24.svelte.d.ts",
+      "svelte": "./dist/Dot24.svelte"
+    },
+    "./DotFill16.svelte": {
+      "types": "./dist/DotFill16.svelte.d.ts",
+      "svelte": "./dist/DotFill16.svelte"
+    },
+    "./DotFill24.svelte": {
+      "types": "./dist/DotFill24.svelte.d.ts",
+      "svelte": "./dist/DotFill24.svelte"
+    },
+    "./Download16.svelte": {
+      "types": "./dist/Download16.svelte.d.ts",
+      "svelte": "./dist/Download16.svelte"
+    },
+    "./Download24.svelte": {
+      "types": "./dist/Download24.svelte.d.ts",
+      "svelte": "./dist/Download24.svelte"
+    },
+    "./Duplicate16.svelte": {
+      "types": "./dist/Duplicate16.svelte.d.ts",
+      "svelte": "./dist/Duplicate16.svelte"
+    },
+    "./Duplicate24.svelte": {
+      "types": "./dist/Duplicate24.svelte.d.ts",
+      "svelte": "./dist/Duplicate24.svelte"
+    },
+    "./Ellipsis16.svelte": {
+      "types": "./dist/Ellipsis16.svelte.d.ts",
+      "svelte": "./dist/Ellipsis16.svelte"
+    },
+    "./Eye16.svelte": {
+      "types": "./dist/Eye16.svelte.d.ts",
+      "svelte": "./dist/Eye16.svelte"
+    },
+    "./Eye24.svelte": {
+      "types": "./dist/Eye24.svelte.d.ts",
+      "svelte": "./dist/Eye24.svelte"
+    },
+    "./EyeClosed16.svelte": {
+      "types": "./dist/EyeClosed16.svelte.d.ts",
+      "svelte": "./dist/EyeClosed16.svelte"
+    },
+    "./EyeClosed24.svelte": {
+      "types": "./dist/EyeClosed24.svelte.d.ts",
+      "svelte": "./dist/EyeClosed24.svelte"
+    },
+    "./FeedDiscussion16.svelte": {
+      "types": "./dist/FeedDiscussion16.svelte.d.ts",
+      "svelte": "./dist/FeedDiscussion16.svelte"
+    },
+    "./FeedForked16.svelte": {
+      "types": "./dist/FeedForked16.svelte.d.ts",
+      "svelte": "./dist/FeedForked16.svelte"
+    },
+    "./FeedHeart16.svelte": {
+      "types": "./dist/FeedHeart16.svelte.d.ts",
+      "svelte": "./dist/FeedHeart16.svelte"
+    },
+    "./FeedMerged16.svelte": {
+      "types": "./dist/FeedMerged16.svelte.d.ts",
+      "svelte": "./dist/FeedMerged16.svelte"
+    },
+    "./FeedPerson16.svelte": {
+      "types": "./dist/FeedPerson16.svelte.d.ts",
+      "svelte": "./dist/FeedPerson16.svelte"
+    },
+    "./FeedRepo16.svelte": {
+      "types": "./dist/FeedRepo16.svelte.d.ts",
+      "svelte": "./dist/FeedRepo16.svelte"
+    },
+    "./FeedRocket16.svelte": {
+      "types": "./dist/FeedRocket16.svelte.d.ts",
+      "svelte": "./dist/FeedRocket16.svelte"
+    },
+    "./FeedStar16.svelte": {
+      "types": "./dist/FeedStar16.svelte.d.ts",
+      "svelte": "./dist/FeedStar16.svelte"
+    },
+    "./FeedTag16.svelte": {
+      "types": "./dist/FeedTag16.svelte.d.ts",
+      "svelte": "./dist/FeedTag16.svelte"
+    },
+    "./FeedTrophy16.svelte": {
+      "types": "./dist/FeedTrophy16.svelte.d.ts",
+      "svelte": "./dist/FeedTrophy16.svelte"
+    },
+    "./File16.svelte": {
+      "types": "./dist/File16.svelte.d.ts",
+      "svelte": "./dist/File16.svelte"
+    },
+    "./File24.svelte": {
+      "types": "./dist/File24.svelte.d.ts",
+      "svelte": "./dist/File24.svelte"
+    },
+    "./FileAdded16.svelte": {
+      "types": "./dist/FileAdded16.svelte.d.ts",
+      "svelte": "./dist/FileAdded16.svelte"
+    },
+    "./FileBadge16.svelte": {
+      "types": "./dist/FileBadge16.svelte.d.ts",
+      "svelte": "./dist/FileBadge16.svelte"
+    },
+    "./FileBinary16.svelte": {
+      "types": "./dist/FileBinary16.svelte.d.ts",
+      "svelte": "./dist/FileBinary16.svelte"
+    },
+    "./FileBinary24.svelte": {
+      "types": "./dist/FileBinary24.svelte.d.ts",
+      "svelte": "./dist/FileBinary24.svelte"
+    },
+    "./FileCode16.svelte": {
+      "types": "./dist/FileCode16.svelte.d.ts",
+      "svelte": "./dist/FileCode16.svelte"
+    },
+    "./FileCode24.svelte": {
+      "types": "./dist/FileCode24.svelte.d.ts",
+      "svelte": "./dist/FileCode24.svelte"
+    },
+    "./FileDiff16.svelte": {
+      "types": "./dist/FileDiff16.svelte.d.ts",
+      "svelte": "./dist/FileDiff16.svelte"
+    },
+    "./FileDiff24.svelte": {
+      "types": "./dist/FileDiff24.svelte.d.ts",
+      "svelte": "./dist/FileDiff24.svelte"
+    },
+    "./FileDirectory16.svelte": {
+      "types": "./dist/FileDirectory16.svelte.d.ts",
+      "svelte": "./dist/FileDirectory16.svelte"
+    },
+    "./FileDirectory24.svelte": {
+      "types": "./dist/FileDirectory24.svelte.d.ts",
+      "svelte": "./dist/FileDirectory24.svelte"
+    },
+    "./FileDirectoryFill16.svelte": {
+      "types": "./dist/FileDirectoryFill16.svelte.d.ts",
+      "svelte": "./dist/FileDirectoryFill16.svelte"
+    },
+    "./FileDirectoryFill24.svelte": {
+      "types": "./dist/FileDirectoryFill24.svelte.d.ts",
+      "svelte": "./dist/FileDirectoryFill24.svelte"
+    },
+    "./FileDirectoryOpenFill16.svelte": {
+      "types": "./dist/FileDirectoryOpenFill16.svelte.d.ts",
+      "svelte": "./dist/FileDirectoryOpenFill16.svelte"
+    },
+    "./FileMedia24.svelte": {
+      "types": "./dist/FileMedia24.svelte.d.ts",
+      "svelte": "./dist/FileMedia24.svelte"
+    },
+    "./FileMoved16.svelte": {
+      "types": "./dist/FileMoved16.svelte.d.ts",
+      "svelte": "./dist/FileMoved16.svelte"
+    },
+    "./FileRemoved16.svelte": {
+      "types": "./dist/FileRemoved16.svelte.d.ts",
+      "svelte": "./dist/FileRemoved16.svelte"
+    },
+    "./FileSubmodule16.svelte": {
+      "types": "./dist/FileSubmodule16.svelte.d.ts",
+      "svelte": "./dist/FileSubmodule16.svelte"
+    },
+    "./FileSubmodule24.svelte": {
+      "types": "./dist/FileSubmodule24.svelte.d.ts",
+      "svelte": "./dist/FileSubmodule24.svelte"
+    },
+    "./FileSymlinkFile16.svelte": {
+      "types": "./dist/FileSymlinkFile16.svelte.d.ts",
+      "svelte": "./dist/FileSymlinkFile16.svelte"
+    },
+    "./FileSymlinkFile24.svelte": {
+      "types": "./dist/FileSymlinkFile24.svelte.d.ts",
+      "svelte": "./dist/FileSymlinkFile24.svelte"
+    },
+    "./FileZip16.svelte": {
+      "types": "./dist/FileZip16.svelte.d.ts",
+      "svelte": "./dist/FileZip16.svelte"
+    },
+    "./FileZip24.svelte": {
+      "types": "./dist/FileZip24.svelte.d.ts",
+      "svelte": "./dist/FileZip24.svelte"
+    },
+    "./Filter16.svelte": {
+      "types": "./dist/Filter16.svelte.d.ts",
+      "svelte": "./dist/Filter16.svelte"
+    },
+    "./Filter24.svelte": {
+      "types": "./dist/Filter24.svelte.d.ts",
+      "svelte": "./dist/Filter24.svelte"
+    },
+    "./Flame16.svelte": {
+      "types": "./dist/Flame16.svelte.d.ts",
+      "svelte": "./dist/Flame16.svelte"
+    },
+    "./Flame24.svelte": {
+      "types": "./dist/Flame24.svelte.d.ts",
+      "svelte": "./dist/Flame24.svelte"
+    },
+    "./Fold16.svelte": {
+      "types": "./dist/Fold16.svelte.d.ts",
+      "svelte": "./dist/Fold16.svelte"
+    },
+    "./Fold24.svelte": {
+      "types": "./dist/Fold24.svelte.d.ts",
+      "svelte": "./dist/Fold24.svelte"
+    },
+    "./FoldDown16.svelte": {
+      "types": "./dist/FoldDown16.svelte.d.ts",
+      "svelte": "./dist/FoldDown16.svelte"
+    },
+    "./FoldDown24.svelte": {
+      "types": "./dist/FoldDown24.svelte.d.ts",
+      "svelte": "./dist/FoldDown24.svelte"
+    },
+    "./FoldUp16.svelte": {
+      "types": "./dist/FoldUp16.svelte.d.ts",
+      "svelte": "./dist/FoldUp16.svelte"
+    },
+    "./FoldUp24.svelte": {
+      "types": "./dist/FoldUp24.svelte.d.ts",
+      "svelte": "./dist/FoldUp24.svelte"
+    },
+    "./Gear16.svelte": {
+      "types": "./dist/Gear16.svelte.d.ts",
+      "svelte": "./dist/Gear16.svelte"
+    },
+    "./Gear24.svelte": {
+      "types": "./dist/Gear24.svelte.d.ts",
+      "svelte": "./dist/Gear24.svelte"
+    },
+    "./Gift16.svelte": {
+      "types": "./dist/Gift16.svelte.d.ts",
+      "svelte": "./dist/Gift16.svelte"
+    },
+    "./Gift24.svelte": {
+      "types": "./dist/Gift24.svelte.d.ts",
+      "svelte": "./dist/Gift24.svelte"
+    },
+    "./GitBranch16.svelte": {
+      "types": "./dist/GitBranch16.svelte.d.ts",
+      "svelte": "./dist/GitBranch16.svelte"
+    },
+    "./GitBranch24.svelte": {
+      "types": "./dist/GitBranch24.svelte.d.ts",
+      "svelte": "./dist/GitBranch24.svelte"
+    },
+    "./GitCommit16.svelte": {
+      "types": "./dist/GitCommit16.svelte.d.ts",
+      "svelte": "./dist/GitCommit16.svelte"
+    },
+    "./GitCommit24.svelte": {
+      "types": "./dist/GitCommit24.svelte.d.ts",
+      "svelte": "./dist/GitCommit24.svelte"
+    },
+    "./GitCompare16.svelte": {
+      "types": "./dist/GitCompare16.svelte.d.ts",
+      "svelte": "./dist/GitCompare16.svelte"
+    },
+    "./GitCompare24.svelte": {
+      "types": "./dist/GitCompare24.svelte.d.ts",
+      "svelte": "./dist/GitCompare24.svelte"
+    },
+    "./GitMerge16.svelte": {
+      "types": "./dist/GitMerge16.svelte.d.ts",
+      "svelte": "./dist/GitMerge16.svelte"
+    },
+    "./GitMerge24.svelte": {
+      "types": "./dist/GitMerge24.svelte.d.ts",
+      "svelte": "./dist/GitMerge24.svelte"
+    },
+    "./GitPullRequest16.svelte": {
+      "types": "./dist/GitPullRequest16.svelte.d.ts",
+      "svelte": "./dist/GitPullRequest16.svelte"
+    },
+    "./GitPullRequest24.svelte": {
+      "types": "./dist/GitPullRequest24.svelte.d.ts",
+      "svelte": "./dist/GitPullRequest24.svelte"
+    },
+    "./GitPullRequestClosed16.svelte": {
+      "types": "./dist/GitPullRequestClosed16.svelte.d.ts",
+      "svelte": "./dist/GitPullRequestClosed16.svelte"
+    },
+    "./GitPullRequestClosed24.svelte": {
+      "types": "./dist/GitPullRequestClosed24.svelte.d.ts",
+      "svelte": "./dist/GitPullRequestClosed24.svelte"
+    },
+    "./GitPullRequestDraft16.svelte": {
+      "types": "./dist/GitPullRequestDraft16.svelte.d.ts",
+      "svelte": "./dist/GitPullRequestDraft16.svelte"
+    },
+    "./GitPullRequestDraft24.svelte": {
+      "types": "./dist/GitPullRequestDraft24.svelte.d.ts",
+      "svelte": "./dist/GitPullRequestDraft24.svelte"
+    },
+    "./Globe16.svelte": {
+      "types": "./dist/Globe16.svelte.d.ts",
+      "svelte": "./dist/Globe16.svelte"
+    },
+    "./Globe24.svelte": {
+      "types": "./dist/Globe24.svelte.d.ts",
+      "svelte": "./dist/Globe24.svelte"
+    },
+    "./Grabber16.svelte": {
+      "types": "./dist/Grabber16.svelte.d.ts",
+      "svelte": "./dist/Grabber16.svelte"
+    },
+    "./Grabber24.svelte": {
+      "types": "./dist/Grabber24.svelte.d.ts",
+      "svelte": "./dist/Grabber24.svelte"
+    },
+    "./Graph16.svelte": {
+      "types": "./dist/Graph16.svelte.d.ts",
+      "svelte": "./dist/Graph16.svelte"
+    },
+    "./Graph24.svelte": {
+      "types": "./dist/Graph24.svelte.d.ts",
+      "svelte": "./dist/Graph24.svelte"
+    },
+    "./Hash16.svelte": {
+      "types": "./dist/Hash16.svelte.d.ts",
+      "svelte": "./dist/Hash16.svelte"
+    },
+    "./Hash24.svelte": {
+      "types": "./dist/Hash24.svelte.d.ts",
+      "svelte": "./dist/Hash24.svelte"
+    },
+    "./Heading16.svelte": {
+      "types": "./dist/Heading16.svelte.d.ts",
+      "svelte": "./dist/Heading16.svelte"
+    },
+    "./Heading24.svelte": {
+      "types": "./dist/Heading24.svelte.d.ts",
+      "svelte": "./dist/Heading24.svelte"
+    },
+    "./Heart16.svelte": {
+      "types": "./dist/Heart16.svelte.d.ts",
+      "svelte": "./dist/Heart16.svelte"
+    },
+    "./Heart24.svelte": {
+      "types": "./dist/Heart24.svelte.d.ts",
+      "svelte": "./dist/Heart24.svelte"
+    },
+    "./HeartFill16.svelte": {
+      "types": "./dist/HeartFill16.svelte.d.ts",
+      "svelte": "./dist/HeartFill16.svelte"
+    },
+    "./HeartFill24.svelte": {
+      "types": "./dist/HeartFill24.svelte.d.ts",
+      "svelte": "./dist/HeartFill24.svelte"
+    },
+    "./History16.svelte": {
+      "types": "./dist/History16.svelte.d.ts",
+      "svelte": "./dist/History16.svelte"
+    },
+    "./History24.svelte": {
+      "types": "./dist/History24.svelte.d.ts",
+      "svelte": "./dist/History24.svelte"
+    },
+    "./Home16.svelte": {
+      "types": "./dist/Home16.svelte.d.ts",
+      "svelte": "./dist/Home16.svelte"
+    },
+    "./Home24.svelte": {
+      "types": "./dist/Home24.svelte.d.ts",
+      "svelte": "./dist/Home24.svelte"
+    },
+    "./HomeFill24.svelte": {
+      "types": "./dist/HomeFill24.svelte.d.ts",
+      "svelte": "./dist/HomeFill24.svelte"
+    },
+    "./HorizontalRule16.svelte": {
+      "types": "./dist/HorizontalRule16.svelte.d.ts",
+      "svelte": "./dist/HorizontalRule16.svelte"
+    },
+    "./HorizontalRule24.svelte": {
+      "types": "./dist/HorizontalRule24.svelte.d.ts",
+      "svelte": "./dist/HorizontalRule24.svelte"
+    },
+    "./Hourglass16.svelte": {
+      "types": "./dist/Hourglass16.svelte.d.ts",
+      "svelte": "./dist/Hourglass16.svelte"
+    },
+    "./Hourglass24.svelte": {
+      "types": "./dist/Hourglass24.svelte.d.ts",
+      "svelte": "./dist/Hourglass24.svelte"
+    },
+    "./Hubot16.svelte": {
+      "types": "./dist/Hubot16.svelte.d.ts",
+      "svelte": "./dist/Hubot16.svelte"
+    },
+    "./Hubot24.svelte": {
+      "types": "./dist/Hubot24.svelte.d.ts",
+      "svelte": "./dist/Hubot24.svelte"
+    },
+    "./IdBadge16.svelte": {
+      "types": "./dist/IdBadge16.svelte.d.ts",
+      "svelte": "./dist/IdBadge16.svelte"
+    },
+    "./Image16.svelte": {
+      "types": "./dist/Image16.svelte.d.ts",
+      "svelte": "./dist/Image16.svelte"
+    },
+    "./Image24.svelte": {
+      "types": "./dist/Image24.svelte.d.ts",
+      "svelte": "./dist/Image24.svelte"
+    },
+    "./Inbox16.svelte": {
+      "types": "./dist/Inbox16.svelte.d.ts",
+      "svelte": "./dist/Inbox16.svelte"
+    },
+    "./Inbox24.svelte": {
+      "types": "./dist/Inbox24.svelte.d.ts",
+      "svelte": "./dist/Inbox24.svelte"
+    },
+    "./Infinity16.svelte": {
+      "types": "./dist/Infinity16.svelte.d.ts",
+      "svelte": "./dist/Infinity16.svelte"
+    },
+    "./Infinity24.svelte": {
+      "types": "./dist/Infinity24.svelte.d.ts",
+      "svelte": "./dist/Infinity24.svelte"
+    },
+    "./Info16.svelte": {
+      "types": "./dist/Info16.svelte.d.ts",
+      "svelte": "./dist/Info16.svelte"
+    },
+    "./Info24.svelte": {
+      "types": "./dist/Info24.svelte.d.ts",
+      "svelte": "./dist/Info24.svelte"
+    },
+    "./IssueClosed16.svelte": {
+      "types": "./dist/IssueClosed16.svelte.d.ts",
+      "svelte": "./dist/IssueClosed16.svelte"
+    },
+    "./IssueClosed24.svelte": {
+      "types": "./dist/IssueClosed24.svelte.d.ts",
+      "svelte": "./dist/IssueClosed24.svelte"
+    },
+    "./IssueDraft16.svelte": {
+      "types": "./dist/IssueDraft16.svelte.d.ts",
+      "svelte": "./dist/IssueDraft16.svelte"
+    },
+    "./IssueDraft24.svelte": {
+      "types": "./dist/IssueDraft24.svelte.d.ts",
+      "svelte": "./dist/IssueDraft24.svelte"
+    },
+    "./IssueOpened16.svelte": {
+      "types": "./dist/IssueOpened16.svelte.d.ts",
+      "svelte": "./dist/IssueOpened16.svelte"
+    },
+    "./IssueOpened24.svelte": {
+      "types": "./dist/IssueOpened24.svelte.d.ts",
+      "svelte": "./dist/IssueOpened24.svelte"
+    },
+    "./IssueReopened16.svelte": {
+      "types": "./dist/IssueReopened16.svelte.d.ts",
+      "svelte": "./dist/IssueReopened16.svelte"
+    },
+    "./IssueReopened24.svelte": {
+      "types": "./dist/IssueReopened24.svelte.d.ts",
+      "svelte": "./dist/IssueReopened24.svelte"
+    },
+    "./Italic16.svelte": {
+      "types": "./dist/Italic16.svelte.d.ts",
+      "svelte": "./dist/Italic16.svelte"
+    },
+    "./Italic24.svelte": {
+      "types": "./dist/Italic24.svelte.d.ts",
+      "svelte": "./dist/Italic24.svelte"
+    },
+    "./Iterations16.svelte": {
+      "types": "./dist/Iterations16.svelte.d.ts",
+      "svelte": "./dist/Iterations16.svelte"
+    },
+    "./Iterations24.svelte": {
+      "types": "./dist/Iterations24.svelte.d.ts",
+      "svelte": "./dist/Iterations24.svelte"
+    },
+    "./KebabHorizontal16.svelte": {
+      "types": "./dist/KebabHorizontal16.svelte.d.ts",
+      "svelte": "./dist/KebabHorizontal16.svelte"
+    },
+    "./KebabHorizontal24.svelte": {
+      "types": "./dist/KebabHorizontal24.svelte.d.ts",
+      "svelte": "./dist/KebabHorizontal24.svelte"
+    },
+    "./Key16.svelte": {
+      "types": "./dist/Key16.svelte.d.ts",
+      "svelte": "./dist/Key16.svelte"
+    },
+    "./Key24.svelte": {
+      "types": "./dist/Key24.svelte.d.ts",
+      "svelte": "./dist/Key24.svelte"
+    },
+    "./KeyAsterisk16.svelte": {
+      "types": "./dist/KeyAsterisk16.svelte.d.ts",
+      "svelte": "./dist/KeyAsterisk16.svelte"
+    },
+    "./Law16.svelte": {
+      "types": "./dist/Law16.svelte.d.ts",
+      "svelte": "./dist/Law16.svelte"
+    },
+    "./Law24.svelte": {
+      "types": "./dist/Law24.svelte.d.ts",
+      "svelte": "./dist/Law24.svelte"
+    },
+    "./LightBulb16.svelte": {
+      "types": "./dist/LightBulb16.svelte.d.ts",
+      "svelte": "./dist/LightBulb16.svelte"
+    },
+    "./LightBulb24.svelte": {
+      "types": "./dist/LightBulb24.svelte.d.ts",
+      "svelte": "./dist/LightBulb24.svelte"
+    },
+    "./Link16.svelte": {
+      "types": "./dist/Link16.svelte.d.ts",
+      "svelte": "./dist/Link16.svelte"
+    },
+    "./Link24.svelte": {
+      "types": "./dist/Link24.svelte.d.ts",
+      "svelte": "./dist/Link24.svelte"
+    },
+    "./LinkExternal16.svelte": {
+      "types": "./dist/LinkExternal16.svelte.d.ts",
+      "svelte": "./dist/LinkExternal16.svelte"
+    },
+    "./LinkExternal24.svelte": {
+      "types": "./dist/LinkExternal24.svelte.d.ts",
+      "svelte": "./dist/LinkExternal24.svelte"
+    },
+    "./ListOrdered16.svelte": {
+      "types": "./dist/ListOrdered16.svelte.d.ts",
+      "svelte": "./dist/ListOrdered16.svelte"
+    },
+    "./ListOrdered24.svelte": {
+      "types": "./dist/ListOrdered24.svelte.d.ts",
+      "svelte": "./dist/ListOrdered24.svelte"
+    },
+    "./ListUnordered16.svelte": {
+      "types": "./dist/ListUnordered16.svelte.d.ts",
+      "svelte": "./dist/ListUnordered16.svelte"
+    },
+    "./ListUnordered24.svelte": {
+      "types": "./dist/ListUnordered24.svelte.d.ts",
+      "svelte": "./dist/ListUnordered24.svelte"
+    },
+    "./Location16.svelte": {
+      "types": "./dist/Location16.svelte.d.ts",
+      "svelte": "./dist/Location16.svelte"
+    },
+    "./Location24.svelte": {
+      "types": "./dist/Location24.svelte.d.ts",
+      "svelte": "./dist/Location24.svelte"
+    },
+    "./Lock16.svelte": {
+      "types": "./dist/Lock16.svelte.d.ts",
+      "svelte": "./dist/Lock16.svelte"
+    },
+    "./Lock24.svelte": {
+      "types": "./dist/Lock24.svelte.d.ts",
+      "svelte": "./dist/Lock24.svelte"
+    },
+    "./Log16.svelte": {
+      "types": "./dist/Log16.svelte.d.ts",
+      "svelte": "./dist/Log16.svelte"
+    },
+    "./LogoGist16.svelte": {
+      "types": "./dist/LogoGist16.svelte.d.ts",
+      "svelte": "./dist/LogoGist16.svelte"
+    },
+    "./LogoGithub16.svelte": {
+      "types": "./dist/LogoGithub16.svelte.d.ts",
+      "svelte": "./dist/LogoGithub16.svelte"
+    },
+    "./Mail16.svelte": {
+      "types": "./dist/Mail16.svelte.d.ts",
+      "svelte": "./dist/Mail16.svelte"
+    },
+    "./Mail24.svelte": {
+      "types": "./dist/Mail24.svelte.d.ts",
+      "svelte": "./dist/Mail24.svelte"
+    },
+    "./MarkGithub16.svelte": {
+      "types": "./dist/MarkGithub16.svelte.d.ts",
+      "svelte": "./dist/MarkGithub16.svelte"
+    },
+    "./Markdown16.svelte": {
+      "types": "./dist/Markdown16.svelte.d.ts",
+      "svelte": "./dist/Markdown16.svelte"
+    },
+    "./Megaphone16.svelte": {
+      "types": "./dist/Megaphone16.svelte.d.ts",
+      "svelte": "./dist/Megaphone16.svelte"
+    },
+    "./Megaphone24.svelte": {
+      "types": "./dist/Megaphone24.svelte.d.ts",
+      "svelte": "./dist/Megaphone24.svelte"
+    },
+    "./Mention16.svelte": {
+      "types": "./dist/Mention16.svelte.d.ts",
+      "svelte": "./dist/Mention16.svelte"
+    },
+    "./Mention24.svelte": {
+      "types": "./dist/Mention24.svelte.d.ts",
+      "svelte": "./dist/Mention24.svelte"
+    },
+    "./Meter16.svelte": {
+      "types": "./dist/Meter16.svelte.d.ts",
+      "svelte": "./dist/Meter16.svelte"
+    },
+    "./Milestone16.svelte": {
+      "types": "./dist/Milestone16.svelte.d.ts",
+      "svelte": "./dist/Milestone16.svelte"
+    },
+    "./Milestone24.svelte": {
+      "types": "./dist/Milestone24.svelte.d.ts",
+      "svelte": "./dist/Milestone24.svelte"
+    },
+    "./Mirror16.svelte": {
+      "types": "./dist/Mirror16.svelte.d.ts",
+      "svelte": "./dist/Mirror16.svelte"
+    },
+    "./Mirror24.svelte": {
+      "types": "./dist/Mirror24.svelte.d.ts",
+      "svelte": "./dist/Mirror24.svelte"
+    },
+    "./Moon16.svelte": {
+      "types": "./dist/Moon16.svelte.d.ts",
+      "svelte": "./dist/Moon16.svelte"
+    },
+    "./Moon24.svelte": {
+      "types": "./dist/Moon24.svelte.d.ts",
+      "svelte": "./dist/Moon24.svelte"
+    },
+    "./MortarBoard16.svelte": {
+      "types": "./dist/MortarBoard16.svelte.d.ts",
+      "svelte": "./dist/MortarBoard16.svelte"
+    },
+    "./MortarBoard24.svelte": {
+      "types": "./dist/MortarBoard24.svelte.d.ts",
+      "svelte": "./dist/MortarBoard24.svelte"
+    },
+    "./MultiSelect16.svelte": {
+      "types": "./dist/MultiSelect16.svelte.d.ts",
+      "svelte": "./dist/MultiSelect16.svelte"
+    },
+    "./MultiSelect24.svelte": {
+      "types": "./dist/MultiSelect24.svelte.d.ts",
+      "svelte": "./dist/MultiSelect24.svelte"
+    },
+    "./Mute16.svelte": {
+      "types": "./dist/Mute16.svelte.d.ts",
+      "svelte": "./dist/Mute16.svelte"
+    },
+    "./Mute24.svelte": {
+      "types": "./dist/Mute24.svelte.d.ts",
+      "svelte": "./dist/Mute24.svelte"
+    },
+    "./NoEntry16.svelte": {
+      "types": "./dist/NoEntry16.svelte.d.ts",
+      "svelte": "./dist/NoEntry16.svelte"
+    },
+    "./NoEntry24.svelte": {
+      "types": "./dist/NoEntry24.svelte.d.ts",
+      "svelte": "./dist/NoEntry24.svelte"
+    },
+    "./NoEntryFill12.svelte": {
+      "types": "./dist/NoEntryFill12.svelte.d.ts",
+      "svelte": "./dist/NoEntryFill12.svelte"
+    },
+    "./NorthStar16.svelte": {
+      "types": "./dist/NorthStar16.svelte.d.ts",
+      "svelte": "./dist/NorthStar16.svelte"
+    },
+    "./NorthStar24.svelte": {
+      "types": "./dist/NorthStar24.svelte.d.ts",
+      "svelte": "./dist/NorthStar24.svelte"
+    },
+    "./Note16.svelte": {
+      "types": "./dist/Note16.svelte.d.ts",
+      "svelte": "./dist/Note16.svelte"
+    },
+    "./Note24.svelte": {
+      "types": "./dist/Note24.svelte.d.ts",
+      "svelte": "./dist/Note24.svelte"
+    },
+    "./Number16.svelte": {
+      "types": "./dist/Number16.svelte.d.ts",
+      "svelte": "./dist/Number16.svelte"
+    },
+    "./Number24.svelte": {
+      "types": "./dist/Number24.svelte.d.ts",
+      "svelte": "./dist/Number24.svelte"
+    },
+    "./Organization16.svelte": {
+      "types": "./dist/Organization16.svelte.d.ts",
+      "svelte": "./dist/Organization16.svelte"
+    },
+    "./Organization24.svelte": {
+      "types": "./dist/Organization24.svelte.d.ts",
+      "svelte": "./dist/Organization24.svelte"
+    },
+    "./Package16.svelte": {
+      "types": "./dist/Package16.svelte.d.ts",
+      "svelte": "./dist/Package16.svelte"
+    },
+    "./Package24.svelte": {
+      "types": "./dist/Package24.svelte.d.ts",
+      "svelte": "./dist/Package24.svelte"
+    },
+    "./PackageDependencies16.svelte": {
+      "types": "./dist/PackageDependencies16.svelte.d.ts",
+      "svelte": "./dist/PackageDependencies16.svelte"
+    },
+    "./PackageDependencies24.svelte": {
+      "types": "./dist/PackageDependencies24.svelte.d.ts",
+      "svelte": "./dist/PackageDependencies24.svelte"
+    },
+    "./PackageDependents16.svelte": {
+      "types": "./dist/PackageDependents16.svelte.d.ts",
+      "svelte": "./dist/PackageDependents16.svelte"
+    },
+    "./PackageDependents24.svelte": {
+      "types": "./dist/PackageDependents24.svelte.d.ts",
+      "svelte": "./dist/PackageDependents24.svelte"
+    },
+    "./Paintbrush16.svelte": {
+      "types": "./dist/Paintbrush16.svelte.d.ts",
+      "svelte": "./dist/Paintbrush16.svelte"
+    },
+    "./PaperAirplane16.svelte": {
+      "types": "./dist/PaperAirplane16.svelte.d.ts",
+      "svelte": "./dist/PaperAirplane16.svelte"
+    },
+    "./PaperAirplane24.svelte": {
+      "types": "./dist/PaperAirplane24.svelte.d.ts",
+      "svelte": "./dist/PaperAirplane24.svelte"
+    },
+    "./Paste16.svelte": {
+      "types": "./dist/Paste16.svelte.d.ts",
+      "svelte": "./dist/Paste16.svelte"
+    },
+    "./Paste24.svelte": {
+      "types": "./dist/Paste24.svelte.d.ts",
+      "svelte": "./dist/Paste24.svelte"
+    },
+    "./Pencil16.svelte": {
+      "types": "./dist/Pencil16.svelte.d.ts",
+      "svelte": "./dist/Pencil16.svelte"
+    },
+    "./Pencil24.svelte": {
+      "types": "./dist/Pencil24.svelte.d.ts",
+      "svelte": "./dist/Pencil24.svelte"
+    },
+    "./People16.svelte": {
+      "types": "./dist/People16.svelte.d.ts",
+      "svelte": "./dist/People16.svelte"
+    },
+    "./People24.svelte": {
+      "types": "./dist/People24.svelte.d.ts",
+      "svelte": "./dist/People24.svelte"
+    },
+    "./Person16.svelte": {
+      "types": "./dist/Person16.svelte.d.ts",
+      "svelte": "./dist/Person16.svelte"
+    },
+    "./Person24.svelte": {
+      "types": "./dist/Person24.svelte.d.ts",
+      "svelte": "./dist/Person24.svelte"
+    },
+    "./PersonAdd16.svelte": {
+      "types": "./dist/PersonAdd16.svelte.d.ts",
+      "svelte": "./dist/PersonAdd16.svelte"
+    },
+    "./PersonAdd24.svelte": {
+      "types": "./dist/PersonAdd24.svelte.d.ts",
+      "svelte": "./dist/PersonAdd24.svelte"
+    },
+    "./PersonFill16.svelte": {
+      "types": "./dist/PersonFill16.svelte.d.ts",
+      "svelte": "./dist/PersonFill16.svelte"
+    },
+    "./PersonFill24.svelte": {
+      "types": "./dist/PersonFill24.svelte.d.ts",
+      "svelte": "./dist/PersonFill24.svelte"
+    },
+    "./Pin16.svelte": {
+      "types": "./dist/Pin16.svelte.d.ts",
+      "svelte": "./dist/Pin16.svelte"
+    },
+    "./Pin24.svelte": {
+      "types": "./dist/Pin24.svelte.d.ts",
+      "svelte": "./dist/Pin24.svelte"
+    },
+    "./Play16.svelte": {
+      "types": "./dist/Play16.svelte.d.ts",
+      "svelte": "./dist/Play16.svelte"
+    },
+    "./Play24.svelte": {
+      "types": "./dist/Play24.svelte.d.ts",
+      "svelte": "./dist/Play24.svelte"
+    },
+    "./Plug16.svelte": {
+      "types": "./dist/Plug16.svelte.d.ts",
+      "svelte": "./dist/Plug16.svelte"
+    },
+    "./Plug24.svelte": {
+      "types": "./dist/Plug24.svelte.d.ts",
+      "svelte": "./dist/Plug24.svelte"
+    },
+    "./Plus16.svelte": {
+      "types": "./dist/Plus16.svelte.d.ts",
+      "svelte": "./dist/Plus16.svelte"
+    },
+    "./Plus24.svelte": {
+      "types": "./dist/Plus24.svelte.d.ts",
+      "svelte": "./dist/Plus24.svelte"
+    },
+    "./PlusCircle16.svelte": {
+      "types": "./dist/PlusCircle16.svelte.d.ts",
+      "svelte": "./dist/PlusCircle16.svelte"
+    },
+    "./PlusCircle24.svelte": {
+      "types": "./dist/PlusCircle24.svelte.d.ts",
+      "svelte": "./dist/PlusCircle24.svelte"
+    },
+    "./Project16.svelte": {
+      "types": "./dist/Project16.svelte.d.ts",
+      "svelte": "./dist/Project16.svelte"
+    },
+    "./Project24.svelte": {
+      "types": "./dist/Project24.svelte.d.ts",
+      "svelte": "./dist/Project24.svelte"
+    },
+    "./Pulse16.svelte": {
+      "types": "./dist/Pulse16.svelte.d.ts",
+      "svelte": "./dist/Pulse16.svelte"
+    },
+    "./Pulse24.svelte": {
+      "types": "./dist/Pulse24.svelte.d.ts",
+      "svelte": "./dist/Pulse24.svelte"
+    },
+    "./Question16.svelte": {
+      "types": "./dist/Question16.svelte.d.ts",
+      "svelte": "./dist/Question16.svelte"
+    },
+    "./Question24.svelte": {
+      "types": "./dist/Question24.svelte.d.ts",
+      "svelte": "./dist/Question24.svelte"
+    },
+    "./Quote16.svelte": {
+      "types": "./dist/Quote16.svelte.d.ts",
+      "svelte": "./dist/Quote16.svelte"
+    },
+    "./Quote24.svelte": {
+      "types": "./dist/Quote24.svelte.d.ts",
+      "svelte": "./dist/Quote24.svelte"
+    },
+    "./Reply16.svelte": {
+      "types": "./dist/Reply16.svelte.d.ts",
+      "svelte": "./dist/Reply16.svelte"
+    },
+    "./Reply24.svelte": {
+      "types": "./dist/Reply24.svelte.d.ts",
+      "svelte": "./dist/Reply24.svelte"
+    },
+    "./Repo16.svelte": {
+      "types": "./dist/Repo16.svelte.d.ts",
+      "svelte": "./dist/Repo16.svelte"
+    },
+    "./Repo24.svelte": {
+      "types": "./dist/Repo24.svelte.d.ts",
+      "svelte": "./dist/Repo24.svelte"
+    },
+    "./RepoClone16.svelte": {
+      "types": "./dist/RepoClone16.svelte.d.ts",
+      "svelte": "./dist/RepoClone16.svelte"
+    },
+    "./RepoDeleted16.svelte": {
+      "types": "./dist/RepoDeleted16.svelte.d.ts",
+      "svelte": "./dist/RepoDeleted16.svelte"
+    },
+    "./RepoForked16.svelte": {
+      "types": "./dist/RepoForked16.svelte.d.ts",
+      "svelte": "./dist/RepoForked16.svelte"
+    },
+    "./RepoForked24.svelte": {
+      "types": "./dist/RepoForked24.svelte.d.ts",
+      "svelte": "./dist/RepoForked24.svelte"
+    },
+    "./RepoLocked16.svelte": {
+      "types": "./dist/RepoLocked16.svelte.d.ts",
+      "svelte": "./dist/RepoLocked16.svelte"
+    },
+    "./RepoLocked24.svelte": {
+      "types": "./dist/RepoLocked24.svelte.d.ts",
+      "svelte": "./dist/RepoLocked24.svelte"
+    },
+    "./RepoPull16.svelte": {
+      "types": "./dist/RepoPull16.svelte.d.ts",
+      "svelte": "./dist/RepoPull16.svelte"
+    },
+    "./RepoPush16.svelte": {
+      "types": "./dist/RepoPush16.svelte.d.ts",
+      "svelte": "./dist/RepoPush16.svelte"
+    },
+    "./RepoPush24.svelte": {
+      "types": "./dist/RepoPush24.svelte.d.ts",
+      "svelte": "./dist/RepoPush24.svelte"
+    },
+    "./RepoTemplate16.svelte": {
+      "types": "./dist/RepoTemplate16.svelte.d.ts",
+      "svelte": "./dist/RepoTemplate16.svelte"
+    },
+    "./RepoTemplate24.svelte": {
+      "types": "./dist/RepoTemplate24.svelte.d.ts",
+      "svelte": "./dist/RepoTemplate24.svelte"
+    },
+    "./Report16.svelte": {
+      "types": "./dist/Report16.svelte.d.ts",
+      "svelte": "./dist/Report16.svelte"
+    },
+    "./Report24.svelte": {
+      "types": "./dist/Report24.svelte.d.ts",
+      "svelte": "./dist/Report24.svelte"
+    },
+    "./Rocket16.svelte": {
+      "types": "./dist/Rocket16.svelte.d.ts",
+      "svelte": "./dist/Rocket16.svelte"
+    },
+    "./Rocket24.svelte": {
+      "types": "./dist/Rocket24.svelte.d.ts",
+      "svelte": "./dist/Rocket24.svelte"
+    },
+    "./Rows16.svelte": {
+      "types": "./dist/Rows16.svelte.d.ts",
+      "svelte": "./dist/Rows16.svelte"
+    },
+    "./Rows24.svelte": {
+      "types": "./dist/Rows24.svelte.d.ts",
+      "svelte": "./dist/Rows24.svelte"
+    },
+    "./Rss16.svelte": {
+      "types": "./dist/Rss16.svelte.d.ts",
+      "svelte": "./dist/Rss16.svelte"
+    },
+    "./Rss24.svelte": {
+      "types": "./dist/Rss24.svelte.d.ts",
+      "svelte": "./dist/Rss24.svelte"
+    },
+    "./Ruby16.svelte": {
+      "types": "./dist/Ruby16.svelte.d.ts",
+      "svelte": "./dist/Ruby16.svelte"
+    },
+    "./Ruby24.svelte": {
+      "types": "./dist/Ruby24.svelte.d.ts",
+      "svelte": "./dist/Ruby24.svelte"
+    },
+    "./ScreenFull16.svelte": {
+      "types": "./dist/ScreenFull16.svelte.d.ts",
+      "svelte": "./dist/ScreenFull16.svelte"
+    },
+    "./ScreenFull24.svelte": {
+      "types": "./dist/ScreenFull24.svelte.d.ts",
+      "svelte": "./dist/ScreenFull24.svelte"
+    },
+    "./ScreenNormal16.svelte": {
+      "types": "./dist/ScreenNormal16.svelte.d.ts",
+      "svelte": "./dist/ScreenNormal16.svelte"
+    },
+    "./ScreenNormal24.svelte": {
+      "types": "./dist/ScreenNormal24.svelte.d.ts",
+      "svelte": "./dist/ScreenNormal24.svelte"
+    },
+    "./Search16.svelte": {
+      "types": "./dist/Search16.svelte.d.ts",
+      "svelte": "./dist/Search16.svelte"
+    },
+    "./Search24.svelte": {
+      "types": "./dist/Search24.svelte.d.ts",
+      "svelte": "./dist/Search24.svelte"
+    },
+    "./Server16.svelte": {
+      "types": "./dist/Server16.svelte.d.ts",
+      "svelte": "./dist/Server16.svelte"
+    },
+    "./Server24.svelte": {
+      "types": "./dist/Server24.svelte.d.ts",
+      "svelte": "./dist/Server24.svelte"
+    },
+    "./Share16.svelte": {
+      "types": "./dist/Share16.svelte.d.ts",
+      "svelte": "./dist/Share16.svelte"
+    },
+    "./Share24.svelte": {
+      "types": "./dist/Share24.svelte.d.ts",
+      "svelte": "./dist/Share24.svelte"
+    },
+    "./ShareAndroid16.svelte": {
+      "types": "./dist/ShareAndroid16.svelte.d.ts",
+      "svelte": "./dist/ShareAndroid16.svelte"
+    },
+    "./ShareAndroid24.svelte": {
+      "types": "./dist/ShareAndroid24.svelte.d.ts",
+      "svelte": "./dist/ShareAndroid24.svelte"
+    },
+    "./Shield16.svelte": {
+      "types": "./dist/Shield16.svelte.d.ts",
+      "svelte": "./dist/Shield16.svelte"
+    },
+    "./Shield24.svelte": {
+      "types": "./dist/Shield24.svelte.d.ts",
+      "svelte": "./dist/Shield24.svelte"
+    },
+    "./ShieldCheck16.svelte": {
+      "types": "./dist/ShieldCheck16.svelte.d.ts",
+      "svelte": "./dist/ShieldCheck16.svelte"
+    },
+    "./ShieldCheck24.svelte": {
+      "types": "./dist/ShieldCheck24.svelte.d.ts",
+      "svelte": "./dist/ShieldCheck24.svelte"
+    },
+    "./ShieldLock16.svelte": {
+      "types": "./dist/ShieldLock16.svelte.d.ts",
+      "svelte": "./dist/ShieldLock16.svelte"
+    },
+    "./ShieldLock24.svelte": {
+      "types": "./dist/ShieldLock24.svelte.d.ts",
+      "svelte": "./dist/ShieldLock24.svelte"
+    },
+    "./ShieldX16.svelte": {
+      "types": "./dist/ShieldX16.svelte.d.ts",
+      "svelte": "./dist/ShieldX16.svelte"
+    },
+    "./ShieldX24.svelte": {
+      "types": "./dist/ShieldX24.svelte.d.ts",
+      "svelte": "./dist/ShieldX24.svelte"
+    },
+    "./SidebarCollapse16.svelte": {
+      "types": "./dist/SidebarCollapse16.svelte.d.ts",
+      "svelte": "./dist/SidebarCollapse16.svelte"
+    },
+    "./SidebarCollapse24.svelte": {
+      "types": "./dist/SidebarCollapse24.svelte.d.ts",
+      "svelte": "./dist/SidebarCollapse24.svelte"
+    },
+    "./SidebarExpand16.svelte": {
+      "types": "./dist/SidebarExpand16.svelte.d.ts",
+      "svelte": "./dist/SidebarExpand16.svelte"
+    },
+    "./SidebarExpand24.svelte": {
+      "types": "./dist/SidebarExpand24.svelte.d.ts",
+      "svelte": "./dist/SidebarExpand24.svelte"
+    },
+    "./SignIn16.svelte": {
+      "types": "./dist/SignIn16.svelte.d.ts",
+      "svelte": "./dist/SignIn16.svelte"
+    },
+    "./SignIn24.svelte": {
+      "types": "./dist/SignIn24.svelte.d.ts",
+      "svelte": "./dist/SignIn24.svelte"
+    },
+    "./SignOut16.svelte": {
+      "types": "./dist/SignOut16.svelte.d.ts",
+      "svelte": "./dist/SignOut16.svelte"
+    },
+    "./SignOut24.svelte": {
+      "types": "./dist/SignOut24.svelte.d.ts",
+      "svelte": "./dist/SignOut24.svelte"
+    },
+    "./SingleSelect16.svelte": {
+      "types": "./dist/SingleSelect16.svelte.d.ts",
+      "svelte": "./dist/SingleSelect16.svelte"
+    },
+    "./SingleSelect24.svelte": {
+      "types": "./dist/SingleSelect24.svelte.d.ts",
+      "svelte": "./dist/SingleSelect24.svelte"
+    },
+    "./Skip16.svelte": {
+      "types": "./dist/Skip16.svelte.d.ts",
+      "svelte": "./dist/Skip16.svelte"
+    },
+    "./Skip24.svelte": {
+      "types": "./dist/Skip24.svelte.d.ts",
+      "svelte": "./dist/Skip24.svelte"
+    },
+    "./Sliders16.svelte": {
+      "types": "./dist/Sliders16.svelte.d.ts",
+      "svelte": "./dist/Sliders16.svelte"
+    },
+    "./Smiley16.svelte": {
+      "types": "./dist/Smiley16.svelte.d.ts",
+      "svelte": "./dist/Smiley16.svelte"
+    },
+    "./Smiley24.svelte": {
+      "types": "./dist/Smiley24.svelte.d.ts",
+      "svelte": "./dist/Smiley24.svelte"
+    },
+    "./SortAsc16.svelte": {
+      "types": "./dist/SortAsc16.svelte.d.ts",
+      "svelte": "./dist/SortAsc16.svelte"
+    },
+    "./SortAsc24.svelte": {
+      "types": "./dist/SortAsc24.svelte.d.ts",
+      "svelte": "./dist/SortAsc24.svelte"
+    },
+    "./SortDesc16.svelte": {
+      "types": "./dist/SortDesc16.svelte.d.ts",
+      "svelte": "./dist/SortDesc16.svelte"
+    },
+    "./SortDesc24.svelte": {
+      "types": "./dist/SortDesc24.svelte.d.ts",
+      "svelte": "./dist/SortDesc24.svelte"
+    },
+    "./Square16.svelte": {
+      "types": "./dist/Square16.svelte.d.ts",
+      "svelte": "./dist/Square16.svelte"
+    },
+    "./Square24.svelte": {
+      "types": "./dist/Square24.svelte.d.ts",
+      "svelte": "./dist/Square24.svelte"
+    },
+    "./SquareFill16.svelte": {
+      "types": "./dist/SquareFill16.svelte.d.ts",
+      "svelte": "./dist/SquareFill16.svelte"
+    },
+    "./SquareFill24.svelte": {
+      "types": "./dist/SquareFill24.svelte.d.ts",
+      "svelte": "./dist/SquareFill24.svelte"
+    },
+    "./Squirrel16.svelte": {
+      "types": "./dist/Squirrel16.svelte.d.ts",
+      "svelte": "./dist/Squirrel16.svelte"
+    },
+    "./Squirrel24.svelte": {
+      "types": "./dist/Squirrel24.svelte.d.ts",
+      "svelte": "./dist/Squirrel24.svelte"
+    },
+    "./Stack16.svelte": {
+      "types": "./dist/Stack16.svelte.d.ts",
+      "svelte": "./dist/Stack16.svelte"
+    },
+    "./Stack24.svelte": {
+      "types": "./dist/Stack24.svelte.d.ts",
+      "svelte": "./dist/Stack24.svelte"
+    },
+    "./Star16.svelte": {
+      "types": "./dist/Star16.svelte.d.ts",
+      "svelte": "./dist/Star16.svelte"
+    },
+    "./Star24.svelte": {
+      "types": "./dist/Star24.svelte.d.ts",
+      "svelte": "./dist/Star24.svelte"
+    },
+    "./StarFill16.svelte": {
+      "types": "./dist/StarFill16.svelte.d.ts",
+      "svelte": "./dist/StarFill16.svelte"
+    },
+    "./StarFill24.svelte": {
+      "types": "./dist/StarFill24.svelte.d.ts",
+      "svelte": "./dist/StarFill24.svelte"
+    },
+    "./Stop16.svelte": {
+      "types": "./dist/Stop16.svelte.d.ts",
+      "svelte": "./dist/Stop16.svelte"
+    },
+    "./Stop24.svelte": {
+      "types": "./dist/Stop24.svelte.d.ts",
+      "svelte": "./dist/Stop24.svelte"
+    },
+    "./Stopwatch16.svelte": {
+      "types": "./dist/Stopwatch16.svelte.d.ts",
+      "svelte": "./dist/Stopwatch16.svelte"
+    },
+    "./Stopwatch24.svelte": {
+      "types": "./dist/Stopwatch24.svelte.d.ts",
+      "svelte": "./dist/Stopwatch24.svelte"
+    },
+    "./Strikethrough16.svelte": {
+      "types": "./dist/Strikethrough16.svelte.d.ts",
+      "svelte": "./dist/Strikethrough16.svelte"
+    },
+    "./Strikethrough24.svelte": {
+      "types": "./dist/Strikethrough24.svelte.d.ts",
+      "svelte": "./dist/Strikethrough24.svelte"
+    },
+    "./Sun16.svelte": {
+      "types": "./dist/Sun16.svelte.d.ts",
+      "svelte": "./dist/Sun16.svelte"
+    },
+    "./Sun24.svelte": {
+      "types": "./dist/Sun24.svelte.d.ts",
+      "svelte": "./dist/Sun24.svelte"
+    },
+    "./Sync16.svelte": {
+      "types": "./dist/Sync16.svelte.d.ts",
+      "svelte": "./dist/Sync16.svelte"
+    },
+    "./Sync24.svelte": {
+      "types": "./dist/Sync24.svelte.d.ts",
+      "svelte": "./dist/Sync24.svelte"
+    },
+    "./Tab24.svelte": {
+      "types": "./dist/Tab24.svelte.d.ts",
+      "svelte": "./dist/Tab24.svelte"
+    },
+    "./TabExternal16.svelte": {
+      "types": "./dist/TabExternal16.svelte.d.ts",
+      "svelte": "./dist/TabExternal16.svelte"
+    },
+    "./Table16.svelte": {
+      "types": "./dist/Table16.svelte.d.ts",
+      "svelte": "./dist/Table16.svelte"
+    },
+    "./Table24.svelte": {
+      "types": "./dist/Table24.svelte.d.ts",
+      "svelte": "./dist/Table24.svelte"
+    },
+    "./Tag16.svelte": {
+      "types": "./dist/Tag16.svelte.d.ts",
+      "svelte": "./dist/Tag16.svelte"
+    },
+    "./Tag24.svelte": {
+      "types": "./dist/Tag24.svelte.d.ts",
+      "svelte": "./dist/Tag24.svelte"
+    },
+    "./Tasklist16.svelte": {
+      "types": "./dist/Tasklist16.svelte.d.ts",
+      "svelte": "./dist/Tasklist16.svelte"
+    },
+    "./Tasklist24.svelte": {
+      "types": "./dist/Tasklist24.svelte.d.ts",
+      "svelte": "./dist/Tasklist24.svelte"
+    },
+    "./Telescope16.svelte": {
+      "types": "./dist/Telescope16.svelte.d.ts",
+      "svelte": "./dist/Telescope16.svelte"
+    },
+    "./Telescope24.svelte": {
+      "types": "./dist/Telescope24.svelte.d.ts",
+      "svelte": "./dist/Telescope24.svelte"
+    },
+    "./TelescopeFill16.svelte": {
+      "types": "./dist/TelescopeFill16.svelte.d.ts",
+      "svelte": "./dist/TelescopeFill16.svelte"
+    },
+    "./TelescopeFill24.svelte": {
+      "types": "./dist/TelescopeFill24.svelte.d.ts",
+      "svelte": "./dist/TelescopeFill24.svelte"
+    },
+    "./Terminal16.svelte": {
+      "types": "./dist/Terminal16.svelte.d.ts",
+      "svelte": "./dist/Terminal16.svelte"
+    },
+    "./Terminal24.svelte": {
+      "types": "./dist/Terminal24.svelte.d.ts",
+      "svelte": "./dist/Terminal24.svelte"
+    },
+    "./ThreeBars16.svelte": {
+      "types": "./dist/ThreeBars16.svelte.d.ts",
+      "svelte": "./dist/ThreeBars16.svelte"
+    },
+    "./Thumbsdown16.svelte": {
+      "types": "./dist/Thumbsdown16.svelte.d.ts",
+      "svelte": "./dist/Thumbsdown16.svelte"
+    },
+    "./Thumbsdown24.svelte": {
+      "types": "./dist/Thumbsdown24.svelte.d.ts",
+      "svelte": "./dist/Thumbsdown24.svelte"
+    },
+    "./Thumbsup16.svelte": {
+      "types": "./dist/Thumbsup16.svelte.d.ts",
+      "svelte": "./dist/Thumbsup16.svelte"
+    },
+    "./Thumbsup24.svelte": {
+      "types": "./dist/Thumbsup24.svelte.d.ts",
+      "svelte": "./dist/Thumbsup24.svelte"
+    },
+    "./Tools16.svelte": {
+      "types": "./dist/Tools16.svelte.d.ts",
+      "svelte": "./dist/Tools16.svelte"
+    },
+    "./Tools24.svelte": {
+      "types": "./dist/Tools24.svelte.d.ts",
+      "svelte": "./dist/Tools24.svelte"
+    },
+    "./Trash16.svelte": {
+      "types": "./dist/Trash16.svelte.d.ts",
+      "svelte": "./dist/Trash16.svelte"
+    },
+    "./Trash24.svelte": {
+      "types": "./dist/Trash24.svelte.d.ts",
+      "svelte": "./dist/Trash24.svelte"
+    },
+    "./TriangleDown16.svelte": {
+      "types": "./dist/TriangleDown16.svelte.d.ts",
+      "svelte": "./dist/TriangleDown16.svelte"
+    },
+    "./TriangleDown24.svelte": {
+      "types": "./dist/TriangleDown24.svelte.d.ts",
+      "svelte": "./dist/TriangleDown24.svelte"
+    },
+    "./TriangleLeft16.svelte": {
+      "types": "./dist/TriangleLeft16.svelte.d.ts",
+      "svelte": "./dist/TriangleLeft16.svelte"
+    },
+    "./TriangleLeft24.svelte": {
+      "types": "./dist/TriangleLeft24.svelte.d.ts",
+      "svelte": "./dist/TriangleLeft24.svelte"
+    },
+    "./TriangleRight16.svelte": {
+      "types": "./dist/TriangleRight16.svelte.d.ts",
+      "svelte": "./dist/TriangleRight16.svelte"
+    },
+    "./TriangleRight24.svelte": {
+      "types": "./dist/TriangleRight24.svelte.d.ts",
+      "svelte": "./dist/TriangleRight24.svelte"
+    },
+    "./TriangleUp16.svelte": {
+      "types": "./dist/TriangleUp16.svelte.d.ts",
+      "svelte": "./dist/TriangleUp16.svelte"
+    },
+    "./TriangleUp24.svelte": {
+      "types": "./dist/TriangleUp24.svelte.d.ts",
+      "svelte": "./dist/TriangleUp24.svelte"
+    },
+    "./Trophy16.svelte": {
+      "types": "./dist/Trophy16.svelte.d.ts",
+      "svelte": "./dist/Trophy16.svelte"
+    },
+    "./Trophy24.svelte": {
+      "types": "./dist/Trophy24.svelte.d.ts",
+      "svelte": "./dist/Trophy24.svelte"
+    },
+    "./Typography16.svelte": {
+      "types": "./dist/Typography16.svelte.d.ts",
+      "svelte": "./dist/Typography16.svelte"
+    },
+    "./Typography24.svelte": {
+      "types": "./dist/Typography24.svelte.d.ts",
+      "svelte": "./dist/Typography24.svelte"
+    },
+    "./Unfold16.svelte": {
+      "types": "./dist/Unfold16.svelte.d.ts",
+      "svelte": "./dist/Unfold16.svelte"
+    },
+    "./Unfold24.svelte": {
+      "types": "./dist/Unfold24.svelte.d.ts",
+      "svelte": "./dist/Unfold24.svelte"
+    },
+    "./Unlock16.svelte": {
+      "types": "./dist/Unlock16.svelte.d.ts",
+      "svelte": "./dist/Unlock16.svelte"
+    },
+    "./Unlock24.svelte": {
+      "types": "./dist/Unlock24.svelte.d.ts",
+      "svelte": "./dist/Unlock24.svelte"
+    },
+    "./Unmute16.svelte": {
+      "types": "./dist/Unmute16.svelte.d.ts",
+      "svelte": "./dist/Unmute16.svelte"
+    },
+    "./Unmute24.svelte": {
+      "types": "./dist/Unmute24.svelte.d.ts",
+      "svelte": "./dist/Unmute24.svelte"
+    },
+    "./Unverified16.svelte": {
+      "types": "./dist/Unverified16.svelte.d.ts",
+      "svelte": "./dist/Unverified16.svelte"
+    },
+    "./Unverified24.svelte": {
+      "types": "./dist/Unverified24.svelte.d.ts",
+      "svelte": "./dist/Unverified24.svelte"
+    },
+    "./Upload16.svelte": {
+      "types": "./dist/Upload16.svelte.d.ts",
+      "svelte": "./dist/Upload16.svelte"
+    },
+    "./Upload24.svelte": {
+      "types": "./dist/Upload24.svelte.d.ts",
+      "svelte": "./dist/Upload24.svelte"
+    },
+    "./Verified16.svelte": {
+      "types": "./dist/Verified16.svelte.d.ts",
+      "svelte": "./dist/Verified16.svelte"
+    },
+    "./Verified24.svelte": {
+      "types": "./dist/Verified24.svelte.d.ts",
+      "svelte": "./dist/Verified24.svelte"
+    },
+    "./Versions16.svelte": {
+      "types": "./dist/Versions16.svelte.d.ts",
+      "svelte": "./dist/Versions16.svelte"
+    },
+    "./Versions24.svelte": {
+      "types": "./dist/Versions24.svelte.d.ts",
+      "svelte": "./dist/Versions24.svelte"
+    },
+    "./Video16.svelte": {
+      "types": "./dist/Video16.svelte.d.ts",
+      "svelte": "./dist/Video16.svelte"
+    },
+    "./Video24.svelte": {
+      "types": "./dist/Video24.svelte.d.ts",
+      "svelte": "./dist/Video24.svelte"
+    },
+    "./Webhook16.svelte": {
+      "types": "./dist/Webhook16.svelte.d.ts",
+      "svelte": "./dist/Webhook16.svelte"
+    },
+    "./Workflow16.svelte": {
+      "types": "./dist/Workflow16.svelte.d.ts",
+      "svelte": "./dist/Workflow16.svelte"
+    },
+    "./Workflow24.svelte": {
+      "types": "./dist/Workflow24.svelte.d.ts",
+      "svelte": "./dist/Workflow24.svelte"
+    },
+    "./X16.svelte": {
+      "types": "./dist/X16.svelte.d.ts",
+      "svelte": "./dist/X16.svelte"
+    },
+    "./X24.svelte": {
+      "types": "./dist/X24.svelte.d.ts",
+      "svelte": "./dist/X24.svelte"
+    },
+    "./XCircle16.svelte": {
+      "types": "./dist/XCircle16.svelte.d.ts",
+      "svelte": "./dist/XCircle16.svelte"
+    },
+    "./XCircle24.svelte": {
+      "types": "./dist/XCircle24.svelte.d.ts",
+      "svelte": "./dist/XCircle24.svelte"
+    },
+    "./XCircleFill12.svelte": {
+      "types": "./dist/XCircleFill12.svelte.d.ts",
+      "svelte": "./dist/XCircleFill12.svelte"
+    },
+    "./XCircleFill16.svelte": {
+      "types": "./dist/XCircleFill16.svelte.d.ts",
+      "svelte": "./dist/XCircleFill16.svelte"
+    },
+    "./XCircleFill24.svelte": {
+      "types": "./dist/XCircleFill24.svelte.d.ts",
+      "svelte": "./dist/XCircleFill24.svelte"
+    },
+    "./Zap16.svelte": {
+      "types": "./dist/Zap16.svelte.d.ts",
+      "svelte": "./dist/Zap16.svelte"
+    },
+    "./Zap24.svelte": {
+      "types": "./dist/Zap24.svelte.d.ts",
+      "svelte": "./dist/Zap24.svelte"
+    }
   }
 }
