@@ -4,17 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.2.1](https://github.com/shinokada/svelte-oct/compare/v0.1.7...v0.2.1) (2023-02-22)
 
-
 ### Features
 
-* add microsoft webmaster tools meta tag ([a4691ed](https://github.com/shinokada/svelte-oct/commit/a4691ed825bcdf4fce27a1af5d3015f217767ef1))
-* new svelte packaging system ([8b0b9df](https://github.com/shinokada/svelte-oct/commit/8b0b9df98cf09177b595b1dd3b348fa54c0b3fa7))
-* new svelte packaging system 2 ([560f6e0](https://github.com/shinokada/svelte-oct/commit/560f6e0e954836f4a295770d4d7f72332f0e08df))
-
+- add microsoft webmaster tools meta tag ([a4691ed](https://github.com/shinokada/svelte-oct/commit/a4691ed825bcdf4fce27a1af5d3015f217767ef1))
+- new svelte packaging system ([8b0b9df](https://github.com/shinokada/svelte-oct/commit/8b0b9df98cf09177b595b1dd3b348fa54c0b3fa7))
+- new svelte packaging system 2 ([560f6e0](https://github.com/shinokada/svelte-oct/commit/560f6e0e954836f4a295770d4d7f72332f0e08df))
 
 ### Bug Fixes
 
-* update index.html ([009ac19](https://github.com/shinokada/svelte-oct/commit/009ac1924fa4ef4c913fd041c81d1ba5967c7ef1))
+- update index.html ([009ac19](https://github.com/shinokada/svelte-oct/commit/009ac1924fa4ef4c913fd041c81d1ba5967c7ef1))
 
 ### [0.1.7](https://github.com/shinokada/svelte-oct/compare/v0.1.6...v0.1.7) (2023-02-01)
 
