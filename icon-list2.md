@@ -1,506 +1,582 @@
-Accessibility16.svelte
-Alert16.svelte
-Alert24.svelte
-AlertFill12.svelte
-Apps16.svelte
-Archive16.svelte
-Archive24.svelte
-ArrowBoth16.svelte
-ArrowBoth24.svelte
-ArrowDown16.svelte
-ArrowDown24.svelte
-ArrowDownLeft24.svelte
-ArrowDownRight24.svelte
-ArrowLeft16.svelte
-ArrowLeft24.svelte
-ArrowRight16.svelte
-ArrowRight24.svelte
-ArrowSwitch16.svelte
-ArrowSwitch24.svelte
-ArrowUp16.svelte
-ArrowUp24.svelte
-ArrowUpLeft24.svelte
-ArrowUpRight24.svelte
-Beaker16.svelte
-Beaker24.svelte
-Bell16.svelte
-Bell24.svelte
-BellFill16.svelte
-BellFill24.svelte
-BellSlash16.svelte
-BellSlash24.svelte
-Blocked16.svelte
-Blocked24.svelte
-Bold16.svelte
-Bold24.svelte
-Book16.svelte
-Book24.svelte
-Bookmark16.svelte
-Bookmark24.svelte
-BookmarkFill24.svelte
-BookmarkSlash16.svelte
-BookmarkSlash24.svelte
-BookmarkSlashFill24.svelte
-Briefcase16.svelte
-Briefcase24.svelte
-Broadcast16.svelte
-Broadcast24.svelte
-Browser16.svelte
-Browser24.svelte
-Bug16.svelte
-Bug24.svelte
-Calendar16.svelte
-Calendar24.svelte
-Check16.svelte
-Check24.svelte
-CheckCircle16.svelte
-CheckCircle24.svelte
-CheckCircleFill12.svelte
-CheckCircleFill16.svelte
-CheckCircleFill24.svelte
-Checklist16.svelte
-Checklist24.svelte
-ChevronDown16.svelte
-ChevronDown24.svelte
-ChevronLeft16.svelte
-ChevronLeft24.svelte
-ChevronRight16.svelte
-ChevronRight24.svelte
-ChevronUp16.svelte
-ChevronUp24.svelte
-Circle16.svelte
-Circle24.svelte
-CircleSlash16.svelte
-CircleSlash24.svelte
-Clock16.svelte
-Clock24.svelte
-Cloud16.svelte
-Cloud24.svelte
-CloudOffline16.svelte
-CloudOffline24.svelte
-Code16.svelte
-Code24.svelte
-CodeOfConduct16.svelte
-CodeOfConduct24.svelte
-CodeReview16.svelte
-CodeReview24.svelte
-CodeSquare16.svelte
-CodeSquare24.svelte
-Codescan16.svelte
-Codescan24.svelte
-CodescanCheckmark16.svelte
-CodescanCheckmark24.svelte
-Codespaces16.svelte
-Codespaces24.svelte
-Columns16.svelte
-Columns24.svelte
-Comment16.svelte
-Comment24.svelte
-CommentDiscussion16.svelte
-CommentDiscussion24.svelte
-Commit24.svelte
-Container16.svelte
-Container24.svelte
-Copilot16.svelte
-Copilot24.svelte
-Copilot48.svelte
-Copilot96.svelte
-CopilotError16.svelte
-CopilotWarning16.svelte
-Copy16.svelte
-Copy24.svelte
-Cpu16.svelte
-Cpu24.svelte
-CreditCard16.svelte
-CreditCard24.svelte
-CrossReference16.svelte
-CrossReference24.svelte
-Dash16.svelte
-Dash24.svelte
-Database16.svelte
-Database24.svelte
-Dependabot16.svelte
-Dependabot24.svelte
-DesktopDownload16.svelte
-DesktopDownload24.svelte
-DeviceCamera16.svelte
-DeviceCameraVideo16.svelte
-DeviceCameraVideo24.svelte
-DeviceDesktop16.svelte
-DeviceDesktop24.svelte
-DeviceMobile16.svelte
-DeviceMobile24.svelte
-Diamond16.svelte
-Diamond24.svelte
-Diff16.svelte
-Diff24.svelte
-DiffAdded16.svelte
-DiffIgnored16.svelte
-DiffModified16.svelte
-DiffRemoved16.svelte
-DiffRenamed16.svelte
-Dot16.svelte
-Dot24.svelte
-DotFill16.svelte
-DotFill24.svelte
-Download16.svelte
-Download24.svelte
-Duplicate16.svelte
-Duplicate24.svelte
-Ellipsis16.svelte
-Eye16.svelte
-Eye24.svelte
-EyeClosed16.svelte
-EyeClosed24.svelte
-FeedDiscussion16.svelte
-FeedForked16.svelte
-FeedHeart16.svelte
-FeedMerged16.svelte
-FeedPerson16.svelte
-FeedRepo16.svelte
-FeedRocket16.svelte
-FeedStar16.svelte
-FeedTag16.svelte
-FeedTrophy16.svelte
-File16.svelte
-File24.svelte
-FileAdded16.svelte
-FileBadge16.svelte
-FileBinary16.svelte
-FileBinary24.svelte
-FileCode16.svelte
-FileCode24.svelte
-FileDiff16.svelte
-FileDiff24.svelte
-FileDirectory16.svelte
-FileDirectory24.svelte
-FileDirectoryFill16.svelte
-FileDirectoryFill24.svelte
-FileDirectoryOpenFill16.svelte
-FileMedia24.svelte
-FileMoved16.svelte
-FileRemoved16.svelte
-FileSubmodule16.svelte
-FileSubmodule24.svelte
-FileSymlinkFile16.svelte
-FileSymlinkFile24.svelte
-FileZip16.svelte
-FileZip24.svelte
-Filter16.svelte
-Filter24.svelte
-Flame16.svelte
-Flame24.svelte
-Fold16.svelte
-Fold24.svelte
-FoldDown16.svelte
-FoldDown24.svelte
-FoldUp16.svelte
-FoldUp24.svelte
-Gear16.svelte
-Gear24.svelte
-Gift16.svelte
-Gift24.svelte
-GitBranch16.svelte
-GitBranch24.svelte
-GitCommit16.svelte
-GitCommit24.svelte
-GitCompare16.svelte
-GitCompare24.svelte
-GitMerge16.svelte
-GitMerge24.svelte
-GitPullRequest16.svelte
-GitPullRequest24.svelte
-GitPullRequestClosed16.svelte
-GitPullRequestClosed24.svelte
-GitPullRequestDraft16.svelte
-GitPullRequestDraft24.svelte
-Globe16.svelte
-Globe24.svelte
-Grabber16.svelte
-Grabber24.svelte
-Graph16.svelte
-Graph24.svelte
-Hash16.svelte
-Hash24.svelte
-Heading16.svelte
-Heading24.svelte
-Heart16.svelte
-Heart24.svelte
-HeartFill16.svelte
-HeartFill24.svelte
-History16.svelte
-History24.svelte
-Home16.svelte
-Home24.svelte
-HomeFill24.svelte
-HorizontalRule16.svelte
-HorizontalRule24.svelte
-Hourglass16.svelte
-Hourglass24.svelte
-Hubot16.svelte
-Hubot24.svelte
-IdBadge16.svelte
-Image16.svelte
-Image24.svelte
-Inbox16.svelte
-Inbox24.svelte
-Infinity16.svelte
-Infinity24.svelte
-Info16.svelte
-Info24.svelte
-IssueClosed16.svelte
-IssueClosed24.svelte
-IssueDraft16.svelte
-IssueDraft24.svelte
-IssueOpened16.svelte
-IssueOpened24.svelte
-IssueReopened16.svelte
-IssueReopened24.svelte
-Italic16.svelte
-Italic24.svelte
-Iterations16.svelte
-Iterations24.svelte
-KebabHorizontal16.svelte
-KebabHorizontal24.svelte
-Key16.svelte
-Key24.svelte
-KeyAsterisk16.svelte
-Law16.svelte
-Law24.svelte
-LightBulb16.svelte
-LightBulb24.svelte
-Link16.svelte
-Link24.svelte
-LinkExternal16.svelte
-LinkExternal24.svelte
-ListOrdered16.svelte
-ListOrdered24.svelte
-ListUnordered16.svelte
-ListUnordered24.svelte
-Location16.svelte
-Location24.svelte
-Lock16.svelte
-Lock24.svelte
-Log16.svelte
-LogoGist16.svelte
-LogoGithub16.svelte
-Mail16.svelte
-Mail24.svelte
-MarkGithub16.svelte
-Markdown16.svelte
-Megaphone16.svelte
-Megaphone24.svelte
-Mention16.svelte
-Mention24.svelte
-Meter16.svelte
-Milestone16.svelte
-Milestone24.svelte
-Mirror16.svelte
-Mirror24.svelte
-Moon16.svelte
-Moon24.svelte
-MortarBoard16.svelte
-MortarBoard24.svelte
-MultiSelect16.svelte
-MultiSelect24.svelte
-Mute16.svelte
-Mute24.svelte
-NoEntry16.svelte
-NoEntry24.svelte
-NoEntryFill12.svelte
-NorthStar16.svelte
-NorthStar24.svelte
-Note16.svelte
-Note24.svelte
-Number16.svelte
-Number24.svelte
-Organization16.svelte
-Organization24.svelte
-Package16.svelte
-Package24.svelte
-PackageDependencies16.svelte
-PackageDependencies24.svelte
-PackageDependents16.svelte
-PackageDependents24.svelte
-Paintbrush16.svelte
-PaperAirplane16.svelte
-PaperAirplane24.svelte
-Paste16.svelte
-Paste24.svelte
-Pencil16.svelte
-Pencil24.svelte
-People16.svelte
-People24.svelte
-Person16.svelte
-Person24.svelte
-PersonAdd16.svelte
-PersonAdd24.svelte
-PersonFill16.svelte
-PersonFill24.svelte
-Pin16.svelte
-Pin24.svelte
-Play16.svelte
-Play24.svelte
-Plug16.svelte
-Plug24.svelte
-Plus16.svelte
-Plus24.svelte
-PlusCircle16.svelte
-PlusCircle24.svelte
-Project16.svelte
-Project24.svelte
-Pulse16.svelte
-Pulse24.svelte
-Question16.svelte
-Question24.svelte
-Quote16.svelte
-Quote24.svelte
-Reply16.svelte
-Reply24.svelte
-Repo16.svelte
-Repo24.svelte
-RepoClone16.svelte
-RepoDeleted16.svelte
-RepoForked16.svelte
-RepoForked24.svelte
-RepoLocked16.svelte
-RepoLocked24.svelte
-RepoPull16.svelte
-RepoPush16.svelte
-RepoPush24.svelte
-RepoTemplate16.svelte
-RepoTemplate24.svelte
-Report16.svelte
-Report24.svelte
-Rocket16.svelte
-Rocket24.svelte
-Rows16.svelte
-Rows24.svelte
-Rss16.svelte
-Rss24.svelte
-Ruby16.svelte
-Ruby24.svelte
-ScreenFull16.svelte
-ScreenFull24.svelte
-ScreenNormal16.svelte
-ScreenNormal24.svelte
-Search16.svelte
-Search24.svelte
-Server16.svelte
-Server24.svelte
-Share16.svelte
-Share24.svelte
-ShareAndroid16.svelte
-ShareAndroid24.svelte
-Shield16.svelte
-Shield24.svelte
-ShieldCheck16.svelte
-ShieldCheck24.svelte
-ShieldLock16.svelte
-ShieldLock24.svelte
-ShieldX16.svelte
-ShieldX24.svelte
-SidebarCollapse16.svelte
-SidebarCollapse24.svelte
-SidebarExpand16.svelte
-SidebarExpand24.svelte
-SignIn16.svelte
-SignIn24.svelte
-SignOut16.svelte
-SignOut24.svelte
-SingleSelect16.svelte
-SingleSelect24.svelte
-Skip16.svelte
-Skip24.svelte
-Sliders16.svelte
-Smiley16.svelte
-Smiley24.svelte
-SortAsc16.svelte
-SortAsc24.svelte
-SortDesc16.svelte
-SortDesc24.svelte
-Square16.svelte
-Square24.svelte
-SquareFill16.svelte
-SquareFill24.svelte
-Squirrel16.svelte
-Squirrel24.svelte
-Stack16.svelte
-Stack24.svelte
-Star16.svelte
-Star24.svelte
-StarFill16.svelte
-StarFill24.svelte
-Stop16.svelte
-Stop24.svelte
-Stopwatch16.svelte
-Stopwatch24.svelte
-Strikethrough16.svelte
-Strikethrough24.svelte
-Sun16.svelte
-Sun24.svelte
-Sync16.svelte
-Sync24.svelte
-Tab24.svelte
-TabExternal16.svelte
-Table16.svelte
-Table24.svelte
-Tag16.svelte
-Tag24.svelte
-Tasklist16.svelte
-Tasklist24.svelte
-Telescope16.svelte
-Telescope24.svelte
-TelescopeFill16.svelte
-TelescopeFill24.svelte
-Terminal16.svelte
-Terminal24.svelte
-ThreeBars16.svelte
-Thumbsdown16.svelte
-Thumbsdown24.svelte
-Thumbsup16.svelte
-Thumbsup24.svelte
-Tools16.svelte
-Tools24.svelte
-Trash16.svelte
-Trash24.svelte
-TriangleDown16.svelte
-TriangleDown24.svelte
-TriangleLeft16.svelte
-TriangleLeft24.svelte
-TriangleRight16.svelte
-TriangleRight24.svelte
-TriangleUp16.svelte
-TriangleUp24.svelte
-Trophy16.svelte
-Trophy24.svelte
-Typography16.svelte
-Typography24.svelte
-Unfold16.svelte
-Unfold24.svelte
-Unlock16.svelte
-Unlock24.svelte
-Unmute16.svelte
-Unmute24.svelte
-Unverified16.svelte
-Unverified24.svelte
-Upload16.svelte
-Upload24.svelte
-Verified16.svelte
-Verified24.svelte
-Versions16.svelte
-Versions24.svelte
-Video16.svelte
-Video24.svelte
-Webhook16.svelte
-Workflow16.svelte
-Workflow24.svelte
-X16.svelte
-X24.svelte
-XCircle16.svelte
-XCircle24.svelte
-XCircleFill12.svelte
-XCircleFill16.svelte
-XCircleFill24.svelte
-Zap16.svelte
-Zap24.svelte
+- Accessibility16.svelte
+- AccessibilityInset16.svelte
+- Alert16.svelte
+- Alert24.svelte
+- AlertFill12.svelte
+- AlertFill16.svelte
+- AlertFill24.svelte
+- Apps16.svelte
+- Archive16.svelte
+- Archive24.svelte
+- ArrowBoth16.svelte
+- ArrowBoth24.svelte
+- ArrowDown16.svelte
+- ArrowDown24.svelte
+- ArrowDownLeft16.svelte
+- ArrowDownLeft24.svelte
+- ArrowDownRight16.svelte
+- ArrowDownRight24.svelte
+- ArrowLeft16.svelte
+- ArrowLeft24.svelte
+- ArrowRight16.svelte
+- ArrowRight24.svelte
+- ArrowSwitch16.svelte
+- ArrowSwitch24.svelte
+- ArrowUp16.svelte
+- ArrowUp24.svelte
+- ArrowUpLeft16.svelte
+- ArrowUpLeft24.svelte
+- ArrowUpRight16.svelte
+- ArrowUpRight24.svelte
+- Beaker16.svelte
+- Beaker24.svelte
+- Bell16.svelte
+- Bell24.svelte
+- BellFill16.svelte
+- BellFill24.svelte
+- BellSlash16.svelte
+- BellSlash24.svelte
+- Blocked16.svelte
+- Blocked24.svelte
+- Bold16.svelte
+- Bold24.svelte
+- Book16.svelte
+- Book24.svelte
+- Bookmark16.svelte
+- Bookmark24.svelte
+- BookmarkFill24.svelte
+- BookmarkSlash16.svelte
+- BookmarkSlash24.svelte
+- BookmarkSlashFill24.svelte
+- Briefcase16.svelte
+- Briefcase24.svelte
+- Broadcast16.svelte
+- Broadcast24.svelte
+- Browser16.svelte
+- Browser24.svelte
+- Bug16.svelte
+- Bug24.svelte
+- Cache16.svelte
+- Calendar16.svelte
+- Calendar24.svelte
+- Check16.svelte
+- Check24.svelte
+- CheckCircle16.svelte
+- CheckCircle24.svelte
+- CheckCircleFill12.svelte
+- CheckCircleFill16.svelte
+- CheckCircleFill24.svelte
+- Checkbox16.svelte
+- Checkbox24.svelte
+- Checklist16.svelte
+- Checklist24.svelte
+- ChevronDown12.svelte
+- ChevronDown16.svelte
+- ChevronDown24.svelte
+- ChevronLeft16.svelte
+- ChevronLeft24.svelte
+- ChevronRight12.svelte
+- ChevronRight16.svelte
+- ChevronRight24.svelte
+- ChevronUp12.svelte
+- ChevronUp16.svelte
+- ChevronUp24.svelte
+- Circle16.svelte
+- Circle24.svelte
+- CircleSlash16.svelte
+- CircleSlash24.svelte
+- Clock16.svelte
+- Clock24.svelte
+- ClockFill16.svelte
+- ClockFill24.svelte
+- Cloud16.svelte
+- Cloud24.svelte
+- CloudOffline16.svelte
+- CloudOffline24.svelte
+- Code16.svelte
+- Code24.svelte
+- CodeOfConduct16.svelte
+- CodeOfConduct24.svelte
+- CodeReview16.svelte
+- CodeReview24.svelte
+- CodeSquare16.svelte
+- CodeSquare24.svelte
+- Codescan16.svelte
+- Codescan24.svelte
+- CodescanCheckmark16.svelte
+- CodescanCheckmark24.svelte
+- Codespaces16.svelte
+- Codespaces24.svelte
+- Columns16.svelte
+- Columns24.svelte
+- CommandPalette16.svelte
+- CommandPalette24.svelte
+- Comment16.svelte
+- Comment24.svelte
+- CommentDiscussion16.svelte
+- CommentDiscussion24.svelte
+- Commit24.svelte
+- Container16.svelte
+- Container24.svelte
+- Copilot16.svelte
+- Copilot24.svelte
+- Copilot48.svelte
+- Copilot96.svelte
+- CopilotError16.svelte
+- CopilotWarning16.svelte
+- Copy16.svelte
+- Copy24.svelte
+- Cpu16.svelte
+- Cpu24.svelte
+- CreditCard16.svelte
+- CreditCard24.svelte
+- CrossReference16.svelte
+- CrossReference24.svelte
+- Dash16.svelte
+- Dash24.svelte
+- Database16.svelte
+- Database24.svelte
+- Dependabot16.svelte
+- Dependabot24.svelte
+- DesktopDownload16.svelte
+- DesktopDownload24.svelte
+- DeviceCamera16.svelte
+- DeviceCameraVideo16.svelte
+- DeviceCameraVideo24.svelte
+- DeviceDesktop16.svelte
+- DeviceDesktop24.svelte
+- DeviceMobile16.svelte
+- DeviceMobile24.svelte
+- Devices16.svelte
+- Devices24.svelte
+- Diamond16.svelte
+- Diamond24.svelte
+- Diff16.svelte
+- Diff24.svelte
+- DiffAdded16.svelte
+- DiffIgnored16.svelte
+- DiffModified16.svelte
+- DiffRemoved16.svelte
+- DiffRenamed16.svelte
+- DiscussionClosed16.svelte
+- DiscussionClosed24.svelte
+- DiscussionDuplicate16.svelte
+- DiscussionDuplicate24.svelte
+- DiscussionOutdated16.svelte
+- DiscussionOutdated24.svelte
+- Dot16.svelte
+- Dot24.svelte
+- DotFill16.svelte
+- DotFill24.svelte
+- Download16.svelte
+- Download24.svelte
+- Duplicate16.svelte
+- Duplicate24.svelte
+- Ellipsis16.svelte
+- Eye16.svelte
+- Eye24.svelte
+- EyeClosed16.svelte
+- EyeClosed24.svelte
+- FeedDiscussion16.svelte
+- FeedForked16.svelte
+- FeedHeart16.svelte
+- FeedMerged16.svelte
+- FeedPerson16.svelte
+- FeedRepo16.svelte
+- FeedRocket16.svelte
+- FeedStar16.svelte
+- FeedTag16.svelte
+- FeedTrophy16.svelte
+- File16.svelte
+- File24.svelte
+- FileAdded16.svelte
+- FileBadge16.svelte
+- FileBinary16.svelte
+- FileBinary24.svelte
+- FileCode16.svelte
+- FileCode24.svelte
+- FileDiff16.svelte
+- FileDiff24.svelte
+- FileDirectory16.svelte
+- FileDirectory24.svelte
+- FileDirectoryFill16.svelte
+- FileDirectoryFill24.svelte
+- FileDirectoryOpenFill16.svelte
+- FileMedia24.svelte
+- FileMoved16.svelte
+- FileRemoved16.svelte
+- FileSubmodule16.svelte
+- FileSubmodule24.svelte
+- FileSymlinkFile16.svelte
+- FileSymlinkFile24.svelte
+- FileZip16.svelte
+- FileZip24.svelte
+- Filter16.svelte
+- Filter24.svelte
+- FiscalHost16.svelte
+- Flame16.svelte
+- Flame24.svelte
+- Fold16.svelte
+- Fold24.svelte
+- FoldDown16.svelte
+- FoldDown24.svelte
+- FoldUp16.svelte
+- FoldUp24.svelte
+- Gear16.svelte
+- Gear24.svelte
+- Gift16.svelte
+- Gift24.svelte
+- GitBranch16.svelte
+- GitBranch24.svelte
+- GitCommit16.svelte
+- GitCommit24.svelte
+- GitCompare16.svelte
+- GitCompare24.svelte
+- GitMerge16.svelte
+- GitMerge24.svelte
+- GitMergeQueue16.svelte
+- GitMergeQueue24.svelte
+- GitPullRequest16.svelte
+- GitPullRequest24.svelte
+- GitPullRequestClosed16.svelte
+- GitPullRequestClosed24.svelte
+- GitPullRequestDraft16.svelte
+- GitPullRequestDraft24.svelte
+- Globe16.svelte
+- Globe24.svelte
+- Goal16.svelte
+- Goal24.svelte
+- Grabber16.svelte
+- Grabber24.svelte
+- Graph16.svelte
+- Graph24.svelte
+- Hash16.svelte
+- Hash24.svelte
+- Heading16.svelte
+- Heading24.svelte
+- Heart16.svelte
+- Heart24.svelte
+- HeartFill16.svelte
+- HeartFill24.svelte
+- History16.svelte
+- History24.svelte
+- Home16.svelte
+- Home24.svelte
+- HomeFill24.svelte
+- HorizontalRule16.svelte
+- HorizontalRule24.svelte
+- Hourglass16.svelte
+- Hourglass24.svelte
+- Hubot16.svelte
+- Hubot24.svelte
+- IdBadge16.svelte
+- Image16.svelte
+- Image24.svelte
+- Inbox16.svelte
+- Inbox24.svelte
+- Infinity16.svelte
+- Infinity24.svelte
+- Info16.svelte
+- Info24.svelte
+- IssueClosed16.svelte
+- IssueClosed24.svelte
+- IssueDraft16.svelte
+- IssueDraft24.svelte
+- IssueOpened16.svelte
+- IssueOpened24.svelte
+- IssueReopened16.svelte
+- IssueReopened24.svelte
+- IssueTrackedBy16.svelte
+- IssueTrackedBy24.svelte
+- IssueTracks16.svelte
+- IssueTracks24.svelte
+- Italic16.svelte
+- Italic24.svelte
+- Iterations16.svelte
+- Iterations24.svelte
+- KebabHorizontal16.svelte
+- KebabHorizontal24.svelte
+- Key16.svelte
+- Key24.svelte
+- KeyAsterisk16.svelte
+- Law16.svelte
+- Law24.svelte
+- LightBulb16.svelte
+- LightBulb24.svelte
+- Link16.svelte
+- Link24.svelte
+- LinkExternal16.svelte
+- LinkExternal24.svelte
+- ListOrdered16.svelte
+- ListOrdered24.svelte
+- ListUnordered16.svelte
+- ListUnordered24.svelte
+- Location16.svelte
+- Location24.svelte
+- Lock16.svelte
+- Lock24.svelte
+- Log16.svelte
+- Log24.svelte
+- LogoGist16.svelte
+- LogoGithub16.svelte
+- Mail16.svelte
+- Mail24.svelte
+- MarkGithub16.svelte
+- Markdown16.svelte
+- Megaphone16.svelte
+- Megaphone24.svelte
+- Mention16.svelte
+- Mention24.svelte
+- Meter16.svelte
+- Milestone16.svelte
+- Milestone24.svelte
+- Mirror16.svelte
+- Mirror24.svelte
+- Moon16.svelte
+- Moon24.svelte
+- MortarBoard16.svelte
+- MortarBoard24.svelte
+- MoveToBottom16.svelte
+- MoveToBottom24.svelte
+- MoveToEnd16.svelte
+- MoveToEnd24.svelte
+- MoveToStart16.svelte
+- MoveToStart24.svelte
+- MoveToTop16.svelte
+- MoveToTop24.svelte
+- MultiSelect16.svelte
+- MultiSelect24.svelte
+- Mute16.svelte
+- Mute24.svelte
+- NoEntry16.svelte
+- NoEntry24.svelte
+- NoEntryFill12.svelte
+- NorthStar16.svelte
+- NorthStar24.svelte
+- Note16.svelte
+- Note24.svelte
+- Number16.svelte
+- Number24.svelte
+- Organization16.svelte
+- Organization24.svelte
+- Package16.svelte
+- Package24.svelte
+- PackageDependencies16.svelte
+- PackageDependencies24.svelte
+- PackageDependents16.svelte
+- PackageDependents24.svelte
+- Paintbrush16.svelte
+- PaperAirplane16.svelte
+- PaperAirplane24.svelte
+- Paperclip16.svelte
+- Paperclip24.svelte
+- PasskeyFill16.svelte
+- PasskeyFill24.svelte
+- Paste16.svelte
+- Paste24.svelte
+- Pencil16.svelte
+- Pencil24.svelte
+- People16.svelte
+- People24.svelte
+- Person16.svelte
+- Person24.svelte
+- PersonAdd16.svelte
+- PersonAdd24.svelte
+- PersonFill16.svelte
+- PersonFill24.svelte
+- Pin16.svelte
+- Pin24.svelte
+- PinSlash16.svelte
+- PinSlash24.svelte
+- Play16.svelte
+- Play24.svelte
+- Plug16.svelte
+- Plug24.svelte
+- Plus16.svelte
+- Plus24.svelte
+- PlusCircle16.svelte
+- PlusCircle24.svelte
+- Project16.svelte
+- Project24.svelte
+- ProjectRoadmap16.svelte
+- ProjectRoadmap24.svelte
+- ProjectSymlink16.svelte
+- ProjectSymlink24.svelte
+- ProjectTemplate16.svelte
+- ProjectTemplate24.svelte
+- Pulse16.svelte
+- Pulse24.svelte
+- Question16.svelte
+- Question24.svelte
+- Quote16.svelte
+- Quote24.svelte
+- Read16.svelte
+- Read24.svelte
+- RelFilePath16.svelte
+- RelFilePath24.svelte
+- Reply16.svelte
+- Reply24.svelte
+- Repo16.svelte
+- Repo24.svelte
+- RepoClone16.svelte
+- RepoDeleted16.svelte
+- RepoForked16.svelte
+- RepoForked24.svelte
+- RepoLocked16.svelte
+- RepoLocked24.svelte
+- RepoPull16.svelte
+- RepoPush16.svelte
+- RepoPush24.svelte
+- RepoTemplate16.svelte
+- RepoTemplate24.svelte
+- Report16.svelte
+- Report24.svelte
+- Rocket16.svelte
+- Rocket24.svelte
+- Rows16.svelte
+- Rows24.svelte
+- Rss16.svelte
+- Rss24.svelte
+- Ruby16.svelte
+- Ruby24.svelte
+- ScreenFull16.svelte
+- ScreenFull24.svelte
+- ScreenNormal16.svelte
+- ScreenNormal24.svelte
+- Search16.svelte
+- Search24.svelte
+- Server16.svelte
+- Server24.svelte
+- Share16.svelte
+- Share24.svelte
+- ShareAndroid16.svelte
+- ShareAndroid24.svelte
+- Shield16.svelte
+- Shield24.svelte
+- ShieldCheck16.svelte
+- ShieldCheck24.svelte
+- ShieldLock16.svelte
+- ShieldLock24.svelte
+- ShieldSlash16.svelte
+- ShieldSlash24.svelte
+- ShieldX16.svelte
+- ShieldX24.svelte
+- SidebarCollapse16.svelte
+- SidebarCollapse24.svelte
+- SidebarExpand16.svelte
+- SidebarExpand24.svelte
+- SignIn16.svelte
+- SignIn24.svelte
+- SignOut16.svelte
+- SignOut24.svelte
+- SingleSelect16.svelte
+- SingleSelect24.svelte
+- Skip16.svelte
+- Skip24.svelte
+- SkipFill16.svelte
+- SkipFill24.svelte
+- Sliders16.svelte
+- Smiley16.svelte
+- Smiley24.svelte
+- SortAsc16.svelte
+- SortAsc24.svelte
+- SortDesc16.svelte
+- SortDesc24.svelte
+- SparkleFill16.svelte
+- SponsorTiers16.svelte
+- SponsorTiers24.svelte
+- Square16.svelte
+- Square24.svelte
+- SquareFill16.svelte
+- SquareFill24.svelte
+- Squirrel16.svelte
+- Squirrel24.svelte
+- Stack16.svelte
+- Stack24.svelte
+- Star16.svelte
+- Star24.svelte
+- StarFill16.svelte
+- StarFill24.svelte
+- Stop16.svelte
+- Stop24.svelte
+- Stopwatch16.svelte
+- Stopwatch24.svelte
+- Strikethrough16.svelte
+- Strikethrough24.svelte
+- Sun16.svelte
+- Sun24.svelte
+- Sync16.svelte
+- Sync24.svelte
+- Tab24.svelte
+- TabExternal16.svelte
+- Table16.svelte
+- Table24.svelte
+- Tag16.svelte
+- Tag24.svelte
+- Tasklist16.svelte
+- Tasklist24.svelte
+- Telescope16.svelte
+- Telescope24.svelte
+- TelescopeFill16.svelte
+- TelescopeFill24.svelte
+- Terminal16.svelte
+- Terminal24.svelte
+- ThreeBars16.svelte
+- Thumbsdown16.svelte
+- Thumbsdown24.svelte
+- Thumbsup16.svelte
+- Thumbsup24.svelte
+- Tools16.svelte
+- Tools24.svelte
+- Trash16.svelte
+- Trash24.svelte
+- TriangleDown16.svelte
+- TriangleDown24.svelte
+- TriangleLeft16.svelte
+- TriangleLeft24.svelte
+- TriangleRight16.svelte
+- TriangleRight24.svelte
+- TriangleUp16.svelte
+- TriangleUp24.svelte
+- Trophy16.svelte
+- Trophy24.svelte
+- Typography16.svelte
+- Typography24.svelte
+- Unfold16.svelte
+- Unfold24.svelte
+- Unlink16.svelte
+- Unlink24.svelte
+- Unlock16.svelte
+- Unlock24.svelte
+- Unmute16.svelte
+- Unmute24.svelte
+- Unread16.svelte
+- Unread24.svelte
+- Unverified16.svelte
+- Unverified24.svelte
+- Upload16.svelte
+- Upload24.svelte
+- Verified16.svelte
+- Verified24.svelte
+- Versions16.svelte
+- Versions24.svelte
+- Video16.svelte
+- Video24.svelte
+- Webhook16.svelte
+- Workflow16.svelte
+- Workflow24.svelte
+- X12.svelte
+- X16.svelte
+- X24.svelte
+- XCircle16.svelte
+- XCircle24.svelte
+- XCircleFill12.svelte
+- XCircleFill16.svelte
+- XCircleFill24.svelte
+- Zap16.svelte
+- Zap24.svelte
+- ZoomIn16.svelte
+- ZoomIn24.svelte
+- ZoomOut16.svelte
+- ZoomOut24.svelte
+- index.js
