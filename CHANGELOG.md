@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.2](https://github.com/shinokada/svelte-oct/compare/v0.4.1...v0.4.2) (2023-05-31)
+
+
+### Features
+
+* add component docs ([c7579ee](https://github.com/shinokada/svelte-oct/commit/c7579ee244061105a773d24c9c372f05b1e190c4))
+
 ### [0.4.1](https://github.com/shinokada/svelte-oct/compare/v0.3.1...v0.4.1) (2023-05-12)
 
 ### Features
