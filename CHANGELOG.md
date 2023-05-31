@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.4.1](https://github.com/shinokada/svelte-oct/compare/v0.3.1...v0.4.1) (2023-05-12)
 
-
 ### Features
 
-* add events ([d3cbe52](https://github.com/shinokada/svelte-oct/commit/d3cbe524904dcb6e4457f679ca0db059a2c52ae9))
+- add events ([d3cbe52](https://github.com/shinokada/svelte-oct/commit/d3cbe524904dcb6e4457f679ca0db059a2c52ae9))
 
 ### [0.3.1](https://github.com/shinokada/svelte-oct/compare/v0.2.1...v0.3.1) (2023-03-07)
 
