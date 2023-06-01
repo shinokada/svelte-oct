@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.4](https://github.com/shinokada/svelte-oct/compare/v0.4.3...v0.4.4) (2023-06-01)
+
+
+### Features
+
+* add prop role="img" ([696af4a](https://github.com/shinokada/svelte-oct/commit/696af4a1e7ba692dfbf5b4d065a8b2362c1e2d14))
+
 ### [0.4.3](https://github.com/shinokada/svelte-oct/compare/v0.4.2...v0.4.3) (2023-06-01)
 
 ### Features
