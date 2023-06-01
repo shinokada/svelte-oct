@@ -4,17 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.4.3](https://github.com/shinokada/svelte-oct/compare/v0.4.2...v0.4.3) (2023-06-01)
 
-
 ### Features
 
-* add || ^4.0.0 to peerDependencies ([f4162c4](https://github.com/shinokada/svelte-oct/commit/f4162c4173010abf70d40ecabca3a8caf83237fc))
+- add || ^4.0.0 to peerDependencies ([f4162c4](https://github.com/shinokada/svelte-oct/commit/f4162c4173010abf70d40ecabca3a8caf83237fc))
 
 ### [0.4.2](https://github.com/shinokada/svelte-oct/compare/v0.4.1...v0.4.2) (2023-05-31)
 
-
 ### Features
 
-* add component docs ([c7579ee](https://github.com/shinokada/svelte-oct/commit/c7579ee244061105a773d24c9c372f05b1e190c4))
+- add component docs ([c7579ee](https://github.com/shinokada/svelte-oct/commit/c7579ee244061105a773d24c9c372f05b1e190c4))
 
 ### [0.4.1](https://github.com/shinokada/svelte-oct/compare/v0.3.1...v0.4.1) (2023-05-12)
 
