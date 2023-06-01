@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.3](https://github.com/shinokada/svelte-oct/compare/v0.4.2...v0.4.3) (2023-06-01)
+
+
+### Features
+
+* add || ^4.0.0 to peerDependencies ([f4162c4](https://github.com/shinokada/svelte-oct/commit/f4162c4173010abf70d40ecabca3a8caf83237fc))
+
 ### [0.4.2](https://github.com/shinokada/svelte-oct/compare/v0.4.1...v0.4.2) (2023-05-31)
 
 
