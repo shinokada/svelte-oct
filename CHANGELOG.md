@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.6](https://github.com/shinokada/svelte-oct/compare/v0.4.5...v0.4.6) (2023-07-20)
+
+
+### Features
+
+* layout update ([861bd9f](https://github.com/shinokada/svelte-oct/commit/861bd9f32899faaa15e1d4b82e1cb4ffa6e4959a))
+
+
+### Bug Fixes
+
+* homepage update ([a203d36](https://github.com/shinokada/svelte-oct/commit/a203d360fe166ca38238c350a764fe4158a1a8a7))
+* update flowbite-svelte v0.40.1, add @floating-ui/dom remove flowbite and popper, add tests ([8d789ec](https://github.com/shinokada/svelte-oct/commit/8d789ec919d2c4a4848e3b499c1a3c16267ac3f3))
+
 ### [0.4.5](https://github.com/shinokada/svelte-oct/compare/v0.4.4...v0.4.5) (2023-06-15)
 
 ### [0.4.4](https://github.com/shinokada/svelte-oct/compare/v0.4.3...v0.4.4) (2023-06-01)
