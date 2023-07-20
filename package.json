@@ -8,7 +8,7 @@
     "url": "https://blog.codewithshin.com"
   },
   "bugs": "https://github.com/shinokada/svelte-oct/issues",
-  "homepage": "https://svelte-oct.codewithshin.com",
+  "homepage": "https://svelte-oct.vercel.app/",
   "license": "MIT",
   "scripts": {
     "dev": "vite dev",
