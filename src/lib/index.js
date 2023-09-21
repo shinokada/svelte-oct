@@ -224,6 +224,8 @@ export { default as FileZip16 } from './FileZip16.svelte';
 export { default as FileZip24 } from './FileZip24.svelte';
 export { default as Filter16 } from './Filter16.svelte';
 export { default as Filter24 } from './Filter24.svelte';
+export { default as FilterRemove16 } from './FilterRemove16.svelte';
+export { default as FilterRemove24 } from './FilterRemove24.svelte';
 export { default as FiscalHost16 } from './FiscalHost16.svelte';
 export { default as Flame16 } from './Flame16.svelte';
 export { default as Flame24 } from './Flame24.svelte';

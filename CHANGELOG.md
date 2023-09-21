@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.6.1](https://github.com/shinokada/svelte-oct/compare/v0.5.3...v0.6.1) (2023-09-01)
 
-
 ### Features
 
-* smaller compiled size and Icon component ([ef0a02a](https://github.com/shinokada/svelte-oct/commit/ef0a02a87f5848782d33687ca81422973c8bb5ec))
+- smaller compiled size and Icon component ([ef0a02a](https://github.com/shinokada/svelte-oct/commit/ef0a02a87f5848782d33687ca81422973c8bb5ec))
 
 ### [0.5.3](https://github.com/shinokada/svelte-oct/compare/v0.5.2...v0.5.3) (2023-08-03)
 
