@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.6.2](https://github.com/shinokada/svelte-oct/compare/v0.6.1...v0.6.2) (2023-09-21)
 
-
 ### Features
 
-* add context ([d895440](https://github.com/shinokada/svelte-oct/commit/d895440dcaf8bcf4eb2929d07b2ceb440baffabf))
+- add context ([d895440](https://github.com/shinokada/svelte-oct/commit/d895440dcaf8bcf4eb2929d07b2ceb440baffabf))
 
 ### [0.6.1](https://github.com/shinokada/svelte-oct/compare/v0.5.3...v0.6.1) (2023-09-01)
 
