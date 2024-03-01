@@ -20,16 +20,6 @@ Thank you for considering my open-source package. If you use it in a commercial 
 
 [GitHub Repo](https://github.com/shinokada/svelte-oct)
 
-## Original source
-
-[primer/octicons](https://github.com/primer/octicons)
-
-## License
-
-[Svelte-Oct License](https://github.com/shinokada/svelte-oct/blob/main/LICENSE)
-
-[primer/octicons LICENSE](https://github.com/primer/octicons/blob/main/LICENSE)
-
 ## Installation
 
 ```sh
@@ -347,6 +337,16 @@ Use `import * as Icon from 'svelte-oct`.
 <Icon.Alert16 class="text-pink-700" />
 ```
 
+## Original source
+
+[primer/octicons](https://github.com/primer/octicons)
+
+## License
+
+[Svelte-Oct License](https://github.com/shinokada/svelte-oct/blob/main/LICENSE)
+
+[primer/octicons LICENSE](https://github.com/primer/octicons/blob/main/LICENSE)
+
 ## Other icons
 
-[Svelte-Icon-Sets](https://svelte-svg-icons.vercel.app/)
+[Svelte-Icon-Sets](https://svelte-svg-icons.codewithshin.com/)
