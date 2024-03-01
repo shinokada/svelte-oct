@@ -2507,6 +2507,7 @@
     "./ZoomOut24.svelte": {
       "types": "./dist/ZoomOut24.svelte.d.ts",
       "svelte": "./dist/ZoomOut24.svelte"
-    }
+    },
+    "./package.json": "./package.json"
   }
 }
