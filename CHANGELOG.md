@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/shinokada/svelte-oct/compare/v1.0.2...v1.0.3) (2024-03-01)
+
+
+### Bug Fixes
+
+* @typescript-eslint/eslint-plugin update ([b484f53](https://github.com/shinokada/svelte-oct/commit/b484f534e16b86eadf44e023f5de17845fa1333a))
+
 ### [1.0.2](https://github.com/shinokada/svelte-oct/compare/v1.0.1...v1.0.2) (2024-03-01)
 
 
