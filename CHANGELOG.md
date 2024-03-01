@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/shinokada/svelte-oct/compare/v1.0.1...v1.0.2) (2024-03-01)
+
+
+### Bug Fixes
+
+* layout update add class to NavHamburger ([6970800](https://github.com/shinokada/svelte-oct/commit/697080008ad553514d2d7823510488688e141696))
+* remove active from NavLi and add activeUrl to NavUl ([8549d1b](https://github.com/shinokada/svelte-oct/commit/8549d1bb23c2075fc134be876d77ff59cb84d89e))
+
 ### [1.0.1](https://github.com/shinokada/svelte-oct/compare/v0.6.2...v1.0.1) (2024-01-27)
 
 ### [0.6.2](https://github.com/shinokada/svelte-oct/compare/v0.6.1...v0.6.2) (2023-09-21)
