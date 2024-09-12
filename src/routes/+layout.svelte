@@ -82,7 +82,7 @@
         <NavLi class="lg:px-2 lg:mb-0" href="/">Home</NavLi>
         <NavLi class="lg:px-2 lg:mb-0" href="/icons">Icons</NavLi>
         <NavLi class="lg:px-2 lg:mb-0" href="https://github.com/shinokada/svelte-oct">GitHub</NavLi>
-        <NavLi href="https://svelte-svg-icons.vercel.app/">Icon sets</NavLi>
+        <NavLi href="https://svelte-svg-icons.codewithshin.com/">Icon sets</NavLi>
       </NavUl>
       <div class="flex items-center ml-auto">
         <DarkMode class="inline-block dark:hover:text-white hover:text-gray-900" />
@@ -109,7 +109,7 @@
         <FooterLink class="lg:px-2 lg:mb-0" href="https://github.com/shinokada/svelte-oct"
           >GitHub</FooterLink
         >
-        <FooterLink href="https://svelte-svg-icons.vercel.app/">Icon sets</FooterLink>
+        <FooterLink href="https://svelte-svg-icons.codewithshin.com/">Icon sets</FooterLink>
       </FooterLinkGroup>
     </div>
   </Footer>
